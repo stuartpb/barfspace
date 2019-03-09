@@ -6,6 +6,9 @@ This is the ongoing endeavor to incorporate a bunch of my semi-abandoned writing
 
 see also the [Department of Development][DoD]
 
+Beyond the DoD, this should get merged into [Barfspace Operations][]
+
+[Barfspace Operations]: a3f1fbb2-28c2-43b2-950d-6d5b7af7cd64.md
 [DoD]: eb1e81f8-5939-4f85-9930-418044018a75.md
 [My Old Bad Ideas]: f3f3d6ba-6342-415a-9f3b-ab4f1d75a692.md
 [GYST]: 1da0f61f-c2bb-4b9d-99da-e3f07e18556a.md
@@ -78,9 +81,35 @@ Should this really be called barfspace? That makes it a very "separate" project,
 - [ ] This would mean that the current README files of barfspace and Lean Notes would become new pages, and there'd be a *new* README
   - [ ] Progress more on the Meta track (like rereading my-old-bad-ideas and revisiting the Meta Collection) to feel like you've got a handle enough on this to write *another* level of "this page is in flux, here's what I can tell you about what it looks like" README (and see if you can then maybe subsequently do it less in the prior READMEs - remember to do a foreign tree merge).
   - another xkcd that captures what it's like to have truly unbridled organic development: [xkcd 1360][]
-- [ ] It's worth exploring why I've become more ready to use a system like this instead of one of the things I've used in the past like Isues or Trello
+- [ ] It's worth exploring why I've become more ready to use a system like this instead of one of the things I've used in the past like Issues or Trello
+  - [ ] A lot of the stuff I did in weird Issues... now that I'm really starting to get bored with GitHub, I'm regretting the close ties to GitHub Issues, and am probably going to start migrating some of this design stuff into these notes.
+- [ ] The SACRED Properties should probably get explored more in these notes before I try to spin a whole website out for them.
 
 [the name explainer page]: f5d72b81-ccb9-45d0-8029-be70895f65ca.md
 [NetNQ]: 8905d737-8f2a-4de7-a850-c1f2b04cd45e.md
 [BVQL]: a8c1b237-886b-4169-88ff-9e52bc1dbcf2.md
 [xkcd 1360]: https://xkcd.com/1360/
+
+### A little thing about Quests vs. News vs. Right Now
+
+So the thing is that News was, and/or is, meant to be like "snapshots of my life right now" - highlighting the cross-section of all my projects... Right Now was originally supposed to be a rotating overview of what's on my plate at the moment, but it's becoming obvious that it'd work a lot better as an index for something like a constant State of the Union for all my projects, with the index being the concise snapshot, maybe.
+
+Anyway, there's also a matter of General Notes for Projects, and Quests (which often don't slice evenly to projects) to boot.
+
+So I'm thinking what might make sense would be to merge Right Now with Project Ideas, Project Ideas maybe turning into a page or two like "Just Idle Thoughts and Planning" -
+
+oh snap, Right Now is just Stage 1 and 2, where Ideas was Stages 0 and 1, in Unusual Studio terms. So maybe that's the solution?
+
+Nah, I think what it is is... I should have a Projects index with just, you know, everything as a big list with "all the pages for each project, if there's no dedicated index page for it", something like that, where they're really pretty much just in order of how hairy the notes situation is?
+
+No, wait, they can be organized in terms of stage (and then hairiness, maybe, IDK). Anyway, Right Now would then be a recency-list index
+
+One axis I feel like I kind of need to slice along is "projects that are inherently personal" (ie. "fix the left joycon to stop drifting on my Switch" versus, like, NilPass), and I think that was the original intention behind Right Now, to reflect my personal priorities in a way that a Projects list couldn't. Right Now was meant for the personal - but not *too* personal? because that's what News was kind of about.
+
+Okay, so, that's kind of served by Quests, really. My "current personal state" is best reflected as a recap of what's to be done, personally.
+
+So maybe Right Now... yeah I think Right Now just needs to become, like, Quest Tracker, with the Quests page being the overview tree of all Quests.
+
+and I mean that does reflect its origins as a Planfile
+
+and then Project Ideas can become the "random aimless musings" connector to that, where what we're currently calling "News" becomes "where I put random aimless musings when they're not clearly attached to a project".
