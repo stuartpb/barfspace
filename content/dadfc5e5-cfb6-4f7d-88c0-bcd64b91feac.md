@@ -54,16 +54,23 @@ The rest were listed as checkbox items beneath that:
 Like, ultimately, this is part of my overall intent with the Meta Collection to capture my meditations on writing in this repo, and how they echo out in the world around me
 
 Should loop in that one XKCD somewhere around here about [an entire system just existing to maintain itself][xkcd 1579], because I know that's definitely a mania thing I take care to avoid
+another xkcd that captures what it's like to have truly unbridled organic development: [xkcd 1360][]
 
 [xkcd 1579]: https://xkcd.com/1579/
+[xkcd 1360]: https://xkcd.com/1360/
 
 There's also the thing about how this is all kind of like a rough draft and how, with programming / creative projects, notes like this as a to-do list, if you return to them a ton, so long as you're only focusing on things you currently can do and sub-dividing what you can currently do, you can eventually get to a point where you've effectively accomplished your entire task in the form of specifying out its entire structure (or that a bunch of the chains will collapse into completion after a very small number of nontrivial tasks complete and all the effectively-Promise.all()-like-waits close with the parent checks getting checked off by their lists being completed)
 
 Another meta idea I'm gonna drop right here right now: how, like, all this fanciness I'm doing for hashes is only really necessary for humans under the assumption that we need an adversarial model for authoritative / canonical names like IPNS, and how just searching for a thing and picking the most popular result, like, no kidding Google legitimately changed the world, and now just googling eight words from a John Mulaney act is enough to find you the full transcript within five seconds
 
+Update: that seems kind of related to The Quests in the Quotes from the [Barfspace Vision Arc][BVA], but from the other side
+
 [metaquiddity]: 3ef0ffc5-818e-4c16-be90-0a8bd6eb8778.md
 [the meta collection]: 8c5a1d30-97d9-4395-85be-b6c8ba57b239.md
 [Mindfulness Arc]: 2087f1d7-55fa-4d8b-a4a0-01e4d8579047.md
+[BVA]: a8c1b237-886b-4169-88ff-9e52bc1dbcf2.md
+
+### more from another pulled
 
 ## Notes for the top-level README
 
@@ -76,3 +83,17 @@ I *think* these are all present? There should probably be a page that can link o
 - These are a constantly-updating set of documents, unless stated otherwise
 - Feel free to get your own ideas from these notes, but don't go attributing anything more than the words to me
 - At the end: "With all these disclaimers out of the way, Click here to proceed to the current root note."
+
+## Thoughts on the Greater Barfspace
+
+This is a quest-to-create-quests that's been grafted off of the Barfspace Operations stuff: it should be turned into the corresponding quest entries it describes for Barfspace Vision an Network Neighborhood.
+
+I guess if this becomes notes.stuartpb.com, then you'd just call the general conceptual space of zero-filter self-oriented incidental-publishing (ie. using any platform in this fashion, not just bagtent, which can be used in other fashions) "Open Notes", like "the Open Notes movement"
+
+- or maybe we'll call it XON, pronounced like "Exxon", for "*eXtreme* Open Notes" *(electric guitar, monster truck noises)*
+- [ ] List this on the [Barfspace Vision Quest list][BVQL], with a cross-reference on the [Network Neighborhood quests arc][NetNQ]
+  - [ ] Draft content in a quest on Visions.
+  - [ ] Plan deployment by moving an action plan beyond content out as the "Selling Bagtent" quest being moved to a general Network Neighborhood movement quest.
+
+[NetNQ]: 8905d737-8f2a-4de7-a850-c1f2b04cd45e.md
+[BVQL]: a8c1b237-886b-4169-88ff-9e52bc1dbcf2.md
