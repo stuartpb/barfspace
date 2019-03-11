@@ -54,10 +54,13 @@ The rest were listed as checkbox items beneath that:
 Like, ultimately, this is part of my overall intent with the Meta Collection to capture my meditations on writing in this repo, and how they echo out in the world around me
 
 Should loop in that one XKCD somewhere around here about [an entire system just existing to maintain itself][xkcd 1579], because I know that's definitely a mania thing I take care to avoid
+
 another xkcd that captures what it's like to have truly unbridled organic development: [xkcd 1360][]
 
 [xkcd 1579]: https://xkcd.com/1579/
 [xkcd 1360]: https://xkcd.com/1360/
+
+### more from another pulled quest blip
 
 There's also the thing about how this is all kind of like a rough draft and how, with programming / creative projects, notes like this as a to-do list, if you return to them a ton, so long as you're only focusing on things you currently can do and sub-dividing what you can currently do, you can eventually get to a point where you've effectively accomplished your entire task in the form of specifying out its entire structure (or that a bunch of the chains will collapse into completion after a very small number of nontrivial tasks complete and all the effectively-Promise.all()-like-waits close with the parent checks getting checked off by their lists being completed)
 
@@ -69,8 +72,6 @@ Update: that seems kind of related to The Quests in the Quotes from the [Barfspa
 [the meta collection]: 8c5a1d30-97d9-4395-85be-b6c8ba57b239.md
 [Mindfulness Arc]: 2087f1d7-55fa-4d8b-a4a0-01e4d8579047.md
 [BVA]: a8c1b237-886b-4169-88ff-9e52bc1dbcf2.md
-
-### more from another pulled
 
 ## Notes for the top-level README
 
