@@ -5,10 +5,13 @@ So, this note's going to be my central point of operations for this whole consul
 ## Subnotes
 
 - [TODO / Unusual Studio Quests][USQ]
-- [An Ad][]
+- Drafts for an ad:
+  - [First Draft][]
+  - [Second Draft][]
 - [The (Local) Flow][The Flow]
 
-[An Ad]: 652e9a01-e70e-42a7-9a41-94ac51fc4dc6.md
+[First Draft]: 652e9a01-e70e-42a7-9a41-94ac51fc4dc6.md
+[Second Draft]: 229e0ceb-dd9e-4c3f-9858-2a9a68f52844.md
 [The Flow]: 57eead81-8631-4e88-8979-d65ea8b12028.md
 [USQ]: 21528cfb-1ac3-4428-86df-86bb77154a23.md
 
