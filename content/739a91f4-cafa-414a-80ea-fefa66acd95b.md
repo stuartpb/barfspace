@@ -1,8 +1,8 @@
 # Stuartup / Unusual Studio, But It's Local
 
-So, this note's going to be my central point of operations for this whole consultancy thing I'm currently pursuing.
+So, this note's going to be my central point of operations for this whole consultancy thing I'm currently pursuing, and other places I'm looking for work.
 
-## Subnotes
+## Subnotes for offering tutorship
 
 - [TODO / Unusual Studio Quests][USQ]
 - Drafts for an ad:
@@ -17,6 +17,14 @@ So, this note's going to be my central point of operations for this whole consul
 [The Flow]: 57eead81-8631-4e88-8979-d65ea8b12028.md
 [USQ]: 21528cfb-1ac3-4428-86df-86bb77154a23.md
 [teach kid]: 0bc52037-90ec-483c-977e-f846e2d2e54f.md
+
+## subnotes for applying to positions
+
+- [teaching cover letter][tcl]
+- [code school career pages][schools]
+
+[tcl]: 50cf2c0e-a916-4ed9-9299-1181e02678bb.md
+[schools]: bafe7c70-3e5d-4647-8c28-9275d369a585.md
 
 ## this is basically a note for unusual studio
 
