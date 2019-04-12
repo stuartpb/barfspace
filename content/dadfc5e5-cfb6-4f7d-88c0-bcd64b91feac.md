@@ -1,6 +1,6 @@
-# The Plan Plan
+# The Great Notes Consolidation (and subsequent plans)
 
-The content here has drifted around a ton: this was originally a growth that spontaneously developed on [My Old Bad Ideas][], that then moved on to [Get Your Shit Together][GYST]).
+The content here has drifted around a ton: this was originally a growth that spontaneously developed on [My Old Bad Ideas][], that then moved on to [Get Your Shit Together][GYST] (which is kind of, like, a redux of the "subsequent plans" that are grasped at below).
 
 There were some quests that were here at one point which have since been migrated over to [Barfspace Operations][] - there's also the [Department of Development][DoD].
 
@@ -18,6 +18,18 @@ We're taking stuff from those quests that wasn't really directive and moving it 
 I'm gonna stick a line right here about how also we're trying to integrate [the existing history infrastructure of the project][history], which kind of recurses into the notion of explaining the current state of the notes - a thing that is kind of covered by [Get Your Shit Together][GYST] right now, I guess.
 
 [history]: 0621dc44-9276-47ef-877b-56756163e04f.md
+
+## NOTE
+
+I think this page is such a mess because I forgot where I got this idea to merge in Lean Notes to barfspace originally? It was when I realized that I wanted the revamped bagtent-based barfspace to have Linkdumps, then I realized that that's a lot of what the function of Lean Notes was, and that started the gears turning
+
+Anyway, the way that this didn't have that clear "origin" at the top is I think a big part of why I kept, like churning on "here's a related project", because I vaguely recalled formulating it, but couldn't remember where.
+
+It was in [Barfspace Vision Quests][BVQ], and I guess I was only looking in Operations, because I forgot what a mess BVQ was?
+
+[BVQ]: a8c1b237-886b-4169-88ff-9e52bc1dbcf2.md
+
+ADHD sucks like this, y'all!!
 
 ## A little thing about Quests vs. News vs. Right Now
 
