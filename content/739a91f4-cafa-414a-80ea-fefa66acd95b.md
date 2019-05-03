@@ -22,9 +22,11 @@ So, this note's going to be my central point of operations for this whole consul
 
 - [teaching cover letter][tcl]
 - [code school career pages][schools]
+- [A brief presentation on the first few chapters of Understanding Comics][presentation]
 
 [tcl]: 50cf2c0e-a916-4ed9-9299-1181e02678bb.md
 [schools]: bafe7c70-3e5d-4647-8c28-9275d369a585.md
+[presentation]: 79388a93-7358-442a-a9ab-bb00c81f6ce1.md
 
 ## this is basically a note for unusual studio
 
