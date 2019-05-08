@@ -28,7 +28,7 @@ If you like all this shit you'll probably like [all my other emo shit][emo]
 
 This has sort of become the focus of my news updates here lately, just describing what I'm up to on the project of updating these notes.
 
-These were originally tacked onto [I Love It When a Plan Comes Together][GYST]
+These were originally tacked onto [The Broken Notes Report][GYST]
 
 [GYST]: 1da0f61f-c2bb-4b9d-99da-e3f07e18556a.md
 
