@@ -1,6 +1,6 @@
 # Here's the News with Me
 
-Here's my page where I put little momentary thoughts. Sometimes, it's because I feel like it's just a *mood* I have to write about: other times, it's because I can't spare the energy to figure out how I want to work my thoughts into the morass of existing notes, and it'd be more efficient to just theow them on a little island and work backwards later.
+Here's my page where I put little momentary thoughts. Sometimes, it's because I feel like it's just a *mood* I have to write about: other times, it's because I can't spare the energy to figure out how I want to work my thoughts into the morass of existing notes, and it'd be more efficient to just throw them on a little island and work backwards later.
 
 For more about figuring out what was going on with me at any given point in time, check out the [Right Now][] index.
 
@@ -37,9 +37,11 @@ These were originally tacked onto [The Broken Notes Report][GYST]
 - [2019-04-12][]
 - [2019-05-01][]
 - 2019-05-07: [Now leaving Cloud9][dec9]
+- 2019-05-09 (and earlier): [Now entering GitPod/Theia][gpopen]
 
 [2019-03-08]: 4eba78a6-3d95-4a71-aa05-a3088af7e870.md
 [2019-04-01]: 08f25055-8417-4989-9f7b-40e4502020fe.md
 [2019-04-12]: 00bfbeab-843e-47b5-9f7e-043509a586fd.md
 [2019-05-01]: f050ead6-eb3d-44f3-8612-1ca67c91f299.md
 [dec9]: f2298a17-fc5c-4f52-a506-88f0303718d1.md
+[gpopen]: 7d504fda-8d04-4ac9-9332-319dd52b1930.md
