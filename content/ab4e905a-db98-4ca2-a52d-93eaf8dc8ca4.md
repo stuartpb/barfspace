@@ -2,15 +2,9 @@
 
 This is my ongoing experiment for Human-Oriented Asset Retrieval and Deposition - a way of tidying all my stuff without having to get rid of useful things. Essentially I'm kind of looking to build my own
 
-Previously hoard-guidelines, which is still a repo IIRC (repo created 2016-11-28 though I know I was working on the project at least a couple weeks earlier, if not months), and should really be packed up until this project has drawn better conclusions.
+Previously hoard-guidelines, originally in its own repo (created 2016-11-28 though I know I was working on the project at least a couple weeks earlier, if not months). See [the postmortem][] for what went wrong, and what I'm trying now.
 
-TODO: Write up the procedure with the labels, what my thinking was for why it worked the way it did (how it was designed with an eye toward digitzation), what went wrong (even if removability hadn't been an issue, the atomicity was bad), and what's gonna be different in phase 2
-
-cite [my old bad ideas][MOBI] which this has characteristics of
-
-[MOBI]: f3f3d6ba-6342-415a-9f3b-ab4f1d75a692.md
-
-Really, the postmortem and retrospective, with a description of all that and a mission statement for what's going to be a priority going forward, should be its own page
+[the postmortem]: b9978286-79c3-421b-83d5-04ffa016764e.md
 
 this page will be for aggregating the branches of phase 2 (informally, the new vision: "bagtent of things"), like what my procedures are, what my observations have been, thoughts on the new software, etc
 

@@ -5,10 +5,12 @@
 - [The Linkdump][]
 - [Stuff I Read Monthly][SIRM]
 - [Stuff I had bookmarked in Google Chrome][Old Bookmarks]
+- [pictures of food][FEWD]
 
 [The Linkdump]: 1337e279-9790-4c24-aeeb-56337c994726.md
 [SIRM]: 2593b86b-8504-4c6e-af09-501c6a54ef67.md
 [Old Bookmarks]: 878e8967-fa5d-423d-8ac0-b369138ae10f.md
+[FEWD]: 5f9b2f0f-b785-45b7-9727-7eb3b4be5be4.md
 
 ## Pages *about or related to* collecting links
 
