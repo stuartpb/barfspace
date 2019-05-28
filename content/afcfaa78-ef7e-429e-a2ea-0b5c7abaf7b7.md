@@ -32,12 +32,13 @@ These were originally tacked onto [The Broken Notes Report][GYST]
 
 [GYST]: 1da0f61f-c2bb-4b9d-99da-e3f07e18556a.md
 
-- [2019-03-08][]
+- 2019-03-08: [Advanced GitLab Pages Rendering ideas][2019-03-08]
 - [2019-04-01][]
 - [2019-04-12][]
 - [2019-05-01][]
 - 2019-05-07: [Now leaving Cloud9][dec9]
 - 2019-05-09 (and earlier): [Now entering GitPod/Theia][gpopen]
+- [2019-05-28][]
 
 [2019-03-08]: 4eba78a6-3d95-4a71-aa05-a3088af7e870.md
 [2019-04-01]: 08f25055-8417-4989-9f7b-40e4502020fe.md
@@ -45,3 +46,4 @@ These were originally tacked onto [The Broken Notes Report][GYST]
 [2019-05-01]: f050ead6-eb3d-44f3-8612-1ca67c91f299.md
 [dec9]: f2298a17-fc5c-4f52-a506-88f0303718d1.md
 [gpopen]: 5018398f-fa13-45a5-98ac-d640fe4d5a41.md
+[2019-05-28]: d55faaed-4935-4592-8b85-039cfda163a3.md
