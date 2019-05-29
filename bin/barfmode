@@ -1,11 +1,11 @@
 #! /usr/bin/env bash
 
 # How frequently to check if the working tree has changed.
-TICK=1
+TICK_RATE=1
 # How many ticks to wait for changes to settle before cutting a commit.
-FUSETIME=25
+FUSE_TIME=24
 # Dance to do while waiting for changes.
-DANCEMOVES=(
+SPINNER_FRAMES=(
   $'\e[1;93m'"^('-')^"$'\e[0m'
   $'\e[1;93m'"v('-')v"$'\e[0m')
 
@@ -28,8 +28,8 @@ unstaged-changes () {
 }
 
 uncommitted-changes () {
-  local DIRT=$(git ls-files -dmo --exclude-standard)
-  [[ -n "$DIRT" ]]
+  local dirt=$(git ls-files -dmo --exclude-standard)
+  [[ -n "$dirt" ]]
 }
 
 key-pressed-in-tick () {
@@ -43,20 +43,20 @@ flush-input () {
 }
 
 roll-index () {
-  local SHOTCLOCK
+  local idle_ticks
 
   flush-input
 
-  while ((SHOTCLOCK <= FUSETIME)); do
+  while ((idle_ticks <= FUSE_TIME)); do
 
     if unstaged-changes; then
       git add -A
-      SHOTCLOCK=0
+      idle_ticks=0
     fi
 
     echo -n $'\r'"Building commit"
-    for ((i = 0; i < FUSETIME; ++i)); do
-      if ((i < SHOTCLOCK)); then
+    for ((i = 0; i < FUSE_TIME; ++i)); do
+      if ((i < idle_ticks)); then
         echo -n '.'
       else
         echo -n ' '
@@ -64,11 +64,11 @@ roll-index () {
     done
     echo -n $'\e[1;31m!\e[0m \e[K'
 
-    SHOTCLOCK=$((SHOTCLOCK + 1))
-    if ((SHOTCLOCK <= FUSETIME)); then
+    idle_ticks=$((idle_ticks + 1))
+    if ((idle_ticks <= FUSE_TIME)); then
       if key-pressed-in-tick; then
         git add -A
-        SHOTCLOCK=$FUSETIME
+        idle_ticks=$FUSE_TIME
       fi
     fi
 
@@ -77,12 +77,12 @@ roll-index () {
 }
 
 watch-for-changes () {
-  local DANCESTEP=0
+  local spinstep=0
 
   while :; do
-    echo -n $'\r'"Watching for changes... ${DANCEMOVES[DANCESTEP]} "$'\e[K'
+    echo -n $'\r'"Watching for changes... ${SPINNER_FRAMES[spinstep]} "$'\e[K'
 
-    DANCESTEP=$(( (DANCESTEP + 1) % ${#DANCEMOVES[@]} ))
+    spinstep=$(( (spinstep + 1) % ${#SPINNER_FRAMES[@]} ))
 
     if uncommitted-changes; then
       echo # TODO: Replace this with:
@@ -92,7 +92,7 @@ watch-for-changes () {
       roll-index
       autocommit
     else
-      # TODO: (and I'm pretty sure I described this in some GitHub issue)
+      # TODO: replace with key-pressed-in-tick (see stuartpb/notes.stuartpb.com#6)
       sleep "$TICK"
     fi
   done
