@@ -1,6 +1,8 @@
 # Stuartup / Unusual Studio, But It's Local
 
-So, this note's going to be my central point of operations for this whole consultancy thing I'm currently pursuing, and other places I'm looking for work.
+So, this note's going to be my central point of operations for this whole consultancy thing I'm currently pursuing, which is part of [my overall quest to be self-sustaining][job] (which this originally encapsulated - if you're seeing a link to this page, you probably need to go up a scope).
+
+[job]: 8f63bba6-1b90-484d-a51c-1bc74fccd3d8.md
 
 ## Subnotes for offering tutorship
 
@@ -10,7 +12,7 @@ So, this note's going to be my central point of operations for this whole consul
   - [Second Draft][]
 - [The (Local) Flow][The Flow]
 - FAQ
-  - [for parents][teach kid]
+  - [for parents][teach kid] - this was basically drafted in response to scammers, which I didn't realize at the time, and it kind of soured me on this whole idea
 
 [First Draft]: 652e9a01-e70e-42a7-9a41-94ac51fc4dc6.md
 [Second Draft]: 229e0ceb-dd9e-4c3f-9858-2a9a68f52844.md
@@ -18,15 +20,9 @@ So, this note's going to be my central point of operations for this whole consul
 [USQ]: 21528cfb-1ac3-4428-86df-86bb77154a23.md
 [teach kid]: 0bc52037-90ec-483c-977e-f846e2d2e54f.md
 
-## subnotes for applying to positions
+## status
 
-- [teaching cover letter][tcl]
-- [code school career pages][schools]
-- [A brief presentation on the first few chapters of Understanding Comics][presentation]
-
-[tcl]: 50cf2c0e-a916-4ed9-9299-1181e02678bb.md
-[schools]: bafe7c70-3e5d-4647-8c28-9275d369a585.md
-[presentation]: 79388a93-7358-442a-a9ab-bb00c81f6ce1.md
+I did get an email from someone who was interested, and it's my own dumb fault for not following up with them.
 
 ## this is basically a note for unusual studio
 
