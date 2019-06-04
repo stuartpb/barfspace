@@ -47,3 +47,11 @@ These were originally tacked onto [The Broken Notes Report][GYST]
 [dec9]: f2298a17-fc5c-4f52-a506-88f0303718d1.md
 [gpopen]: 5018398f-fa13-45a5-98ac-d640fe4d5a41.md
 [2019-05-28]: d55faaed-4935-4592-8b85-039cfda163a3.md
+
+## Other stuff going on with me
+
+Now that the Department of Bagtent is in a bit more of a stable place for tracking the notes, this page can track my non-meta stuff some more.
+
+- 2019-06-01: [I'm switching to Firefox.][firefox]
+
+[firefox]: 7b0f829a-7fbe-4896-9b5d-8196e1bca2a4.md
