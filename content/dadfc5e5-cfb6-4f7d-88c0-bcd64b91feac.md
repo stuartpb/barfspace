@@ -1,25 +1,25 @@
-# The Great Notes Consolidation (and subsequent plans)
+# Project Akira
 
-The content here has drifted around a ton: this was originally a growth that spontaneously developed on [My Old Bad Ideas][], that then moved on to [Get Your Shit Together][GYST] (which is kind of, like, a redux of the "subsequent plans" that are grasped at below).
+This note has become the semantic nexus for recording the point in history where the scope of this repository started to explode.
 
-There were some quests that were here at one point which have since been migrated over to [Barfspace Operations][] - there's also the [Department of Development][DoD].
+The early stages are described at [how-i-roll's Tomb][]. From there, it expanded to an issue in Lean Notes, and that led to some thinking here.
 
-[Barfspace Operations]: a3f1fbb2-28c2-43b2-950d-6d5b7af7cd64.md
-[DoD]: eb1e81f8-5939-4f85-9930-418044018a75.md
+[how-i-roll's Tomb]: bbeba5e6-b56a-4a1d-9547-8241311e7cf2.md
+
+Eventually, it became clear that most of my writing was going to get collected into this repository: how to structure this incoming work spontaneously developed as a one-off thought on [My Old Bad Ideas][], then was eventually brought to this page.
+
 [My Old Bad Ideas]: f3f3d6ba-6342-415a-9f3b-ab4f1d75a692.md
-[GYST]: 1da0f61f-c2bb-4b9d-99da-e3f07e18556a.md
 
-In the past, this page served as the central nexus for those things that have been consolidated at those locations (at which point it was known as "Project Akira", for its grotesque sprawl and encompassment): this page is now the centerpoint for musing on the relationship between all my Project and Activity notes (the first section of the [current root note][]).
+The gist of that content was later wplit off to its own page, which has developed into [Operation Trapper Keeper][OTK], the continuation of the work described here.
 
-[current root note]: 81cde66e-d238-4fc1-8381-648a3f90537d.md
+[OTK]: 1da0f61f-c2bb-4b9d-99da-e3f07e18556a.md
 
-We're taking stuff from those quests that wasn't really directive and moving it back to this page.
+There were some quests that were here at one point which have since been migrated over to [Various Operations][bops] under the [Department of Barfspace][DoB].
 
-I'm gonna stick a line right here about how also we're trying to integrate [the existing history infrastructure of the project][history], which kind of recurses into the notion of explaining the current state of the notes - a thing that is kind of covered by [Get Your Shit Together][GYST] right now, I guess.
+[bops]: a3f1fbb2-28c2-43b2-950d-6d5b7af7cd64.md
+[DoB]: eb1e81f8-5939-4f85-9930-418044018a75.md
 
-[history]: 0621dc44-9276-47ef-877b-56756163e04f.md
-
-## NOTE
+The rest of this page tends to be kind of half-relevant: trying to deconstruct it so that this page can serve a clean historical function is part of Operation Trapper Keeper.
 
 I think this page is such a mess because I forgot where I got this idea to merge in Lean Notes to barfspace originally? It was when I realized that I wanted the revamped bagtent-based barfspace to have Linkdumps, then I realized that that's a lot of what the function of Lean Notes was, and that started the gears turning
 
