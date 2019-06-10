@@ -1,8 +1,6 @@
 # Petlogs: the fleeting lives of mutable systems
 
-See the [About Petlogs][old README] page for some background and philosophy behind these pages (some of which is out of date, as it refers to the directory structure that originally spawned the layout of these pages).
-
-[old README]: (f66caf27-1b92-43ad-89f1-cb796fd15dc7.md)
+See the [About Petlogs](f66caf27-1b92-43ad-89f1-cb796fd15dc7.md) page for some background and philosophy behind these pages (some of which is out of date, as it refers to the directory structure that originally spawned the layout of these pages).
 
 For more on how these logs are going to be restructured amd integrated going forwward, see [Camp Papalima](4f705b65-cc3c-4f66-a256-ae5e5777d276.md).
 
@@ -33,7 +31,7 @@ I dual-boot (usually in Linux these days):
 
 - [sturaspi](425e5cda-e1ef-4d01-a346-5c2b072e767e.md) (Raspbian on a Raspberry Pi)
 - Even embeddier: stuflair (a FlashAir I don't think I've written logs for yet)
-- I suppose ESP8266/ESP32 stuff could start going here, sure why not
+- [ESP8266/ESP32 stuff](be8ef21f-ea6e-4f96-8b87-9a54694fb29f.md) is generally documented in use journals for one of these systems bootstrapping it
 
 ### Cloud Virtual Servers
 
