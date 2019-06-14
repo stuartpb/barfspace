@@ -4,6 +4,10 @@ See the [About Petlogs](f66caf27-1b92-43ad-89f1-cb796fd15dc7.md) page for some b
 
 For more on how these logs are going to be restructured amd integrated going forwward, see [Camp Papalima](4f705b65-cc3c-4f66-a256-ae5e5777d276.md).
 
+The [Problem Base](d07f30ca-f065-4fb7-9541-b09b656313c5.md) page collects some of the standing issues that span these systems
+
+The [Desktop Quests](445ae6d8-5796-43b7-8648-704c8ebb9e18.md) page collects some more cross-cutting-concern-type plans
+
 ## My Devices
 
 ### The Two Installations of My Desktop
@@ -31,6 +35,8 @@ I dual-boot (usually in Linux these days):
 
 - [sturaspi](425e5cda-e1ef-4d01-a346-5c2b072e767e.md) (Raspbian on a Raspberry Pi)
 - Even embeddier: stuflair (a FlashAir I don't think I've written logs for yet)
+  - There is a problem page for this tracking [here](b80eb6ff-60a9-4f90-96df-3aec9c844457.md)
+- My [as-yet-unnamed OctoPi installation](5bbc6d64-b33e-4eb4-8280-48509cbcc404.md)
 - [ESP8266/ESP32 stuff](be8ef21f-ea6e-4f96-8b87-9a54694fb29f.md) is generally documented in use journals for one of these systems bootstrapping it
 
 ### Cloud Virtual Servers
@@ -42,7 +48,3 @@ I'm pretty sure I moved stuvern as a name to Vultr, actually?
 ## Alternative indices
 
 - [Misadventures in Microsoft Windows](30e0178d-b9df-4125-90e8-a52a7dda1456.md)
-
-## Shared issues
-
-The [Papercuts and Annoyances](d07f30ca-f065-4fb7-9541-b09b656313c5.md) page documents shared issues across machines (or at least, it's supposed to).
