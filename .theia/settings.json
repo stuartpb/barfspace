@@ -1,4 +1,4 @@
 {
   "editor.autoSave": "on",
-  "editor.minimap.enabled": true
+  "editor.wordBasedSuggestions": false
 }
