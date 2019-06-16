@@ -28,9 +28,7 @@ If you like all this shit you'll probably like [all my other emo shit][emo]
 
 This has sort of become the focus of my news updates here lately, just describing what I'm up to on the project of updating these notes.
 
-These were originally tacked onto [The Broken Notes Report][GYST]
-
-[GYST]: 1da0f61f-c2bb-4b9d-99da-e3f07e18556a.md
+These originally sprung out of [Operation Trapper Keeper](1da0f61f-c2bb-4b9d-99da-e3f07e18556a.md), and should probably return either there or in some other kind of field-journaling branch devision of the Academy that follows the Department
 
 - 2019-03-08: [Advanced GitLab Pages Rendering ideas][2019-03-08]
 - [2019-04-01][]
