@@ -49,3 +49,9 @@ see, that's what I was saying, just that I said it in three words, and I left it
 I don't know, sorry, I just find incredibly extreme and meticulous pedanticism funnier than the original joke, I'm built wrong like that
 
 anyway this wasn't directed at the user I'm replying to, because I'm not really sure how many levels of negation "False" was supposed to be evaluated through, but my assertion of invalidity is ultimately True
+
+---
+
+burying this here, because I'm deleting the Tweet where I first wore my bra (my original "feeling cute, might delete later"):
+
+after living in shame for over half my life, I'm so excited to finally discover how to live in a world free from upper back pain and poor posture
