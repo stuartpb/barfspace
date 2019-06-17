@@ -9,3 +9,5 @@ Hah, it's funny how Theia's brokenness has taught me fear-of-cotton (TODO: make 
 Theia's crappy clone of VS Code's tabs is so bad: how hard would it be to just lift that out of VS Code's codebase? (NOTE: probably very hard, it's Typescript written by Microsoft, abandon hope all ye who enter here)
 
 Remembering here that a good tab system would work as a no-wrap flexbox container, where a min-shrink could be applied and it'd work like Firefox
+
+on Stuzzy, I had to lower the font size to 12 to get it comfortable
