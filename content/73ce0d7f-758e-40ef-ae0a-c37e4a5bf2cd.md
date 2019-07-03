@@ -22,13 +22,13 @@ Okay, these were both handled (on Stushiba) by searching Preferences for "Copy",
 
 EDIT: ARGH, the terminal one is just "copy *when selecting*"
 
-Okay, so I just changed the keybinding for "Terminal: copy selection" to "Ctrl+C"... looks like that fixed it? I ran "yes" and Ctrl+C was eventually recognized (I probably could have done "sleep" instead, derp)
+Okay, so I just changed the keybinding for "Terminal: copy selection" to "Ctrl+C"... looks like that fixed it? I ran "yes" and Ctrl+C was eventually recognized (I probably could have done "sleep" instead without spamming the console, derp)
 
 https://github.com/microsoft/vscode/issues/8818 pointed me toward the logic for why this works OK (it's exposed in the Keybindings tab, which is cool), but it'd be nicer if they explained it
 
 ## A brief aside about bad defaults
 
-[Here's a page about why "just configure it",as I have to do repeatedly below, is Not Great](81a3de04-98ad-4d85-a2ca-a4891efabeb2.md)
+[Here's a page about why "just configure it", as I have to do repeatedly below, is Not Great](81a3de04-98ad-4d85-a2ca-a4891efabeb2.md)
 
 ## More smooth shit
 
@@ -67,3 +67,15 @@ Would it be possible to put "Here" and "./" on a split line, like the Firefox/Ch
 Anyway, a simple "Copy Filename" option would satisfy me just as well for bagtent's purposes, and it seems just as justified (and could be under a "Relative to Parent" menu that lists siblings including "..", going up from the file's location instead of down from the workspace / filesystem root)
 
 These would also make sense as context menus on the breadcrumb bar, y'know
+
+## Whoa, here's a bug I've found
+
+Unsaved buffers, even when they were opened for a new filename in a nested directory (ie. `bagtent-conjure --open`), resolve filenames from the workspace root until the buffer is first saved.
+
+## Another similarity I'm noticing
+
+Code's WM view of editors (which live in a separate universe from terminals, which use a dropdown to switch rather than tabs, which, ehh... this might not be a bad idea for a Window Manager to unify, did I branch that pipe dream off somewhere)?
+
+Anyway, what I was going to say before I was so rudely interrputed by my own parenthetical, it's just like Tree Style Tabs - and then it has another pane that hosts a tree of *files* from a *workspace* collection or whatever.
+
+So yeah, this feeds into that same [Windowsystem Metabrowser](20768279-9c6d-4476-90d8-9dd15f3aa4d3.md) project idea note.
