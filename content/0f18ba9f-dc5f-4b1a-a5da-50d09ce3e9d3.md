@@ -8,6 +8,7 @@ Note that [my study notes][Study] also tend to have linkdump-y properties
 
 - [The Linkdump][]
 - [Stuff I Read Monthly][SIRM]
+- [Finds from Hacker News](93c07255-53aa-4f1c-aa32-ac48149b9683.md)
 - [Stuff I had bookmarked in Google Chrome][Old Bookmarks]
 - [Lefty links][]
 - [History of the World, in Links][World History]
