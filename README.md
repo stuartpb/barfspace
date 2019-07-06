@@ -8,4 +8,4 @@ If you do try reading them, realize that they're intended primarily for myself, 
 
 [Click here to go to the root note.](content/81cde66e-d238-4fc1-8381-648a3f90537d.md)
 
-<a href='https://webring.xxiivv.com/#random' target='_blank'><img src='https://webring.xxiivv.com/icon.black.svg'/></a>
+<a href='https://webring.xxiivv.com/#random' target='_blank'><img src='https://webring.xxiivv.com/icon.black.svg' height="24"/></a>
