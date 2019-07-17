@@ -79,3 +79,7 @@ Code's WM view of editors (which live in a separate universe from terminals, whi
 Anyway, what I was going to say before I was so rudely interrputed by my own parenthetical, it's just like Tree Style Tabs - and then it has another pane that hosts a tree of *files* from a *workspace* collection or whatever.
 
 So yeah, this feeds into that same [Windowsystem Metabrowser](20768279-9c6d-4476-90d8-9dd15f3aa4d3.md) project idea note.
+
+## Whoops
+
+Accidentally enabled `"git.enableSmartCommit": true` by clicking the "Always" button when clicking the check and not staging anything... actually, that's a cool way to do it and I'm cool selecting that, now I feel like this is a behavior you should be able to opt into in Git proper
