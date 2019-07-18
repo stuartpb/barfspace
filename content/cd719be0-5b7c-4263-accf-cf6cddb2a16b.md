@@ -6,6 +6,8 @@ https://en.wikipedia.org/wiki/ArduPilot#Supported_hardware
 
 https://www.librepilot.org/site/index.html
 
+https://opensource.com/article/18/2/drone-projects also has a good list
+
 ## stuff on this proprietary drone
 
 [This "Dobby" Pocket Selfie camera](https://www.amazon.com/ZEROTECH-Dobby-Pocket-Selfie-Camera/dp/B01IZ7MD1I/) is the UX I'm looking to see if I can match through open-source, low-BOM, 3d-printed-part-centric design below.
@@ -14,6 +16,10 @@ https://www.manualslib.com/manual/1171769/Zerotech-Dobby.html?page=10 battery ch
 
 [piloting app on Google Play](https://play.google.com/store/apps/details?id=com.zerotech.cameratime)
 
+## kit notes
+
+https://makezine.com/2017/05/10/5-quadcopter-kits/ all sounds really complicated and expensive
+
 ## 3D Printed Drone stuff
 
 Not all of this is open source: https://www.3dnatives.com/en/top-3d-printed-drones-101220185/
@@ -21,6 +27,8 @@ Not all of this is open source: https://www.3dnatives.com/en/top-3d-printed-dron
 [This All3DP article](https://all3dp.com/3d-print-drone-parts/) closes on a list
 
 [This list](http://blog.layertrove.com/3d-printed-drone/) has more open-source, low-cost projects on it
+
+[Hovership](http://www.thingiverse.com/Hovership/designs) had some interesting designs, but has folded
 
 [PIXXY](https://www.thingiverse.com/thing:272234) (2014, not modular)
 

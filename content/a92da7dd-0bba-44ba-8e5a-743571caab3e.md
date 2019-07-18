@@ -11,6 +11,12 @@ this page lives next to pages you can find under:
 - probably some thoughts on thanked.name
 - all the other uncomitted files from my experiment-a0z1 workspace
 
+## haskell thoughts
+
+There's been a thihg where I've been thinking I'd like to specify alphabi in Haskell
+
+https://github.com/tweag/asterius would maybe facilitate that
+
 ## ideas for a revamped alphabi
 
 [The more-complex successor idea](05ec49f4-5955-4876-82d2-9dd77d36c6c5.md)
