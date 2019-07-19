@@ -1,5 +1,7 @@
 # alphabi notes
 
+https://unusual.studio/projects/#103da517-0a6e-433f-9c75-28cd757575b0
+
 this page lives next to pages you can find under:
 
 - [component ideas](cc2836d4-ad3f-4f0a-8974-981f8cc69b36.md)

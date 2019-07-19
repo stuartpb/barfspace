@@ -5,3 +5,5 @@ This is the counterpart to the Academy's [Notegraph Historium](c4ab1f6b-cac2-402
 Its job is to find historic notes and move them into pages under the Historium
 
 It produced an onboarding unit with Operation Trapper Keeper for integrating my old OneNote notes: the [Deep Note Divers](acea3fb8-4b0d-434e-aefd-3a75ced4f0a2.md)
+
+There's also the [planfile historical content expedition](aa9294c4-dabd-4638-a2db-5bbeb6236f8e.md) to produce pages for content that was removed from stuartpb.plan
