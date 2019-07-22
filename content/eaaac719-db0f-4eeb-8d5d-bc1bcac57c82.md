@@ -7,3 +7,5 @@ Its job is to find historic notes and move them into pages under the Historium
 It produced an onboarding unit with Operation Trapper Keeper for integrating my old OneNote notes: the [Deep Note Divers](acea3fb8-4b0d-434e-aefd-3a75ced4f0a2.md)
 
 There's also the [planfile historical content expedition](aa9294c4-dabd-4638-a2db-5bbeb6236f8e.md) to produce pages for content that was removed from stuartpb.plan
+
+[Trello Crew](b029d2f9-a908-47a2-ab78-e43ed07e69b6.md) is another division

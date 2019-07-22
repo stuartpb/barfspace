@@ -83,3 +83,5 @@ So yeah, this feeds into that same [Windowsystem Metabrowser](20768279-9c6d-4476
 ## Whoops
 
 Accidentally enabled `"git.enableSmartCommit": true` by clicking the "Always" button when clicking the check and not staging anything... actually, that's a cool way to do it and I'm cool selecting that, now I feel like this is a behavior you should be able to opt into in Git proper
+
+Also hit the "Never warn me again" when syncing with remote repos, because, you know, it's not that dangerous
