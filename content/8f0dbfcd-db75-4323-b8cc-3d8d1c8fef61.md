@@ -70,7 +70,7 @@ Tarsnap and its backing store Amazon Glacier
 
 I think there are better offerings these days? I wanna say there's a good FOSS tool for backing up to Backblaze?
 
-## Preparedness and Recover
+## Preparedness and Recovery
 
 Protip: Track Your Factors. Be aware and write down what every piece of information lets you do: what passwords let you read what keys, what keys let you administer what services, what services let you reset what passwords, etc.
 
@@ -79,6 +79,8 @@ Revoke and Reset (Protip/Instruction): ALWAYS revoke keys and reset passwords *i
 See http://www.devfactor.net/2014/12/30/2375-amazon-mistake/ and https://jordan-wright.github.io/blog/2014/12/30/why-deleting-sensitive-information-from-github-doesnt-save-you/
 
 Plug: The OPWS tracks the reset password pages for a lot of sites
+
+Also plug: [revokum](302bcc06-d1c2-4d95-83bc-b0dac2a949f2.md)
 
 ## Read on
 
