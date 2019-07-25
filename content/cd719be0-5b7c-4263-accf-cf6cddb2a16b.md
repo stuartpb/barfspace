@@ -1,5 +1,9 @@
 # Drone stuff
 
+Most of this is research on the subject of what it'd take to make an [Open Interoperable Component Base](c3bc3f1e-8d31-49b9-abad-4f1725ec682f.md) for 3d-printable drone designs
+
+## Links
+
 https://en.wikipedia.org/wiki/PX4_autopilot links to most of the stuff I'm looking at (related projects, etc)
 
 https://en.wikipedia.org/wiki/ArduPilot#Supported_hardware
