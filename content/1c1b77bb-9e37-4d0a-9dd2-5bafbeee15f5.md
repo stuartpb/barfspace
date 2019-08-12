@@ -20,7 +20,7 @@ I dual-boot (usually in Linux these days):
 ### Laptops
 
 - [stuzzy](8668a51b-83e9-465c-953d-f8de57201c8b.md) (Arch Linux on an x64 Chromebook)
-- [stukilla](62907e4e-f535-4676-9863-91c1e3b2eb2d.md) (Arch Linux on an ARMv7 Chromebook)
+- [stukrates](4dbd7aef-7ce1-47c7-aac0-47cf029ad38d.md) (K3OS on an ARMv7 Chromebook, or something)
 
 ### Phones
 
