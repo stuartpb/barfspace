@@ -10,4 +10,4 @@ That's a hell of a way for the people I knew in high school to find out that eit
 
 [The Unconvincing Truth][] is, eh... consider it "buried" until I can go back through and review it
 
-[The Unconvincing Truth]: /notes.stuartpb.com/content/384199c8-03a8-4771-98f8-ea0111fe78b6.md
+[The Unconvincing Truth]: 384199c8-03a8-4771-98f8-ea0111fe78b6.md
