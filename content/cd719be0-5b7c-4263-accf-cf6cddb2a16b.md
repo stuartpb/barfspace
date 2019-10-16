@@ -12,6 +12,13 @@ https://www.librepilot.org/site/index.html
 
 https://opensource.com/article/18/2/drone-projects also has a good list
 
+## now here's something good
+
+- https://espcopter.com/
+  - https://hackaday.com/2019/09/25/espcopter-a-fully-customizable-drone/
+  - https://hackaday.io/project/167079-make-a-hand-control-drone
+  - [Blockly programmer](https://espcopter.com/1513-2/)
+
 ## stuff on this proprietary drone
 
 [This "Dobby" Pocket Selfie camera](https://www.amazon.com/ZEROTECH-Dobby-Pocket-Selfie-Camera/dp/B01IZ7MD1I/) is the UX I'm looking to see if I can match through open-source, low-BOM, 3d-printed-part-centric design below.
