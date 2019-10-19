@@ -1,0 +1,17 @@
+{
+  "name": "notes.stuartpb.com",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "remark ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stuartpb/notes.stuartpb.com.git"
+  },
+  "author": "Stuart P. Bentley <s@stuartpb.com> (https://stuartpb.com/)",
+  "bugs": {
+    "url": "https://github.com/stuartpb/notes.stuartpb.com/issues"
+  },
+  "homepage": "https://notes.stuartpb.com"
+}

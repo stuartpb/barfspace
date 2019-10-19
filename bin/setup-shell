@@ -1,0 +1,15 @@
+if command -v code > /dev/null 2>&1; then
+  GIT_EDITOR='code --wait'
+  EDITOR=code
+elif command -v gp > /dev/null 2>&1; then
+  EDITOR=gp open
+elif command -v c9 > /dev/null 2>&1; then
+  EDITOR=c9 open
+fi
+
+export GIT_EDITOR
+export EDITOR
+
+if [[ -d ../bagtent/bin ]]; then
+  PATH=$PWD/../bagtent/bin:$PATH
+fi

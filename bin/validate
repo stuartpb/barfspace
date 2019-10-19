@@ -1,0 +1,2 @@
+LC_ALL=C comm -23  <(find content -type f | sort) \
+  <(bagtent-distances README.md --reachable)
