@@ -17,3 +17,7 @@ Gets stuck at "Running elevated setup to associate extensions and firewall rules
 ## Steel Rats
 
 Only lists "0x0" in resolutions in options
+
+## Distance
+
+[bloomout issue](https://steamcommunity.com/app/233610/discussions/3/1636418037468391925/?tscn=1576199732)

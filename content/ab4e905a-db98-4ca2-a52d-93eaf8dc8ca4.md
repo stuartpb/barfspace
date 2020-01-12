@@ -11,3 +11,9 @@ this page will be for aggregating the branches of phase 2 (informally, the new v
 See also the offshoot for [Packing Protocol][Baggage]
 
 [Baggage]: b1cc9089-e36b-4727-80f8-911c882d12d6.md
+
+## key point
+
+The whiteboards are like the staging area: they're for holding until it can be typed out.
+
+Another thing to notice is that keeping all the data digitally means I never run out of space to describe everything in the bin to an adequate level of detail - I had some bins that became "full" not because they actually *were*, but because the *front* couldn't hold more labels.
