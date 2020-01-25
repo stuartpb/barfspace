@@ -46,6 +46,12 @@ I dual-boot (usually in Linux these days):
 
 I'm pretty sure I moved stuvern as a name to Vultr, actually?
 
+### More complex systems
+
+This isn't a computer, but it has the same contours of "machine I do my projects on that I want to document every change I make and headache I fix":
+
+- [Stuworks](81a063e3-0f64-4167-a6f9-10dfe2b76d1a.md) (Original Prusa i3 MK3S and environs)
+
 ## Alternative indices
 
 - [Misadventures in Microsoft Windows](30e0178d-b9df-4125-90e8-a52a7dda1456.md)
