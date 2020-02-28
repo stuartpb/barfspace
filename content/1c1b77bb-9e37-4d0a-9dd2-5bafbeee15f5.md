@@ -55,3 +55,7 @@ This isn't a computer, but it has the same contours of "machine I do my projects
 ## Alternative indices
 
 - [Misadventures in Microsoft Windows](30e0178d-b9df-4125-90e8-a52a7dda1456.md)
+
+## Mothballed system resources
+
+- [Samsung Chromebook](2ef2a84f-8eda-4f21-9769-45f271fd3c05.md)
