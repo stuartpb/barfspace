@@ -30,7 +30,9 @@ I dual-boot (usually in Linux these days):
 
 ## My household Kubernetes cluster
 
-- [stukrates](4dbd7aef-7ce1-47c7-aac0-47cf029ad38d.md), the Server node (K3OS on an x64 Toshiba Chromebook 2)
+[Stubernetes](4dbd7aef-7ce1-47c7-aac0-47cf029ad38d.md), consisting of:
+
+- studtop, the Server node (K3OS on an x64 Toshiba Chromebook 2)
 
 ## Stuworks
 
@@ -67,3 +69,4 @@ I'm pretty sure I moved stuvern as a name to Vultr, actually?
 ## Mothballed system resources
 
 - [Samsung Chromebook](2ef2a84f-8eda-4f21-9769-45f271fd3c05.md)
+- [Qidi Tech I](5d254f0a-3164-492d-96d6-ba2a36986303.md)

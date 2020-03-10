@@ -1,8 +1,20 @@
-# stukrates
+# Stubernetes
 
-This is an experiment in using K3OS on an old Chromebook.
+This is an experiment in using K3OS on an old Chromebook (now known as "studtop").
 
-[plan hub](6eaacf19-314a-4d54-a197-8ee0430f6273.md)
+## plans
+
+- [plan hub](6eaacf19-314a-4d54-a197-8ee0430f6273.md)
+- [implementations details](aea5717c-3578-4b53-a070-7677e36b1d04.md)
+  - [volume provisioning plan](4359d3b6-185b-40b3-8f00-64c8f1b4b528.md)
+  - [serving at least one DNS](ce6da281-bfd6-4c42-a1e9-31e8fda39c08.md)
+  - [future external ingress](948d361e-7a98-43a0-9bad-37bc4ff982ec.md)
+- application plans:
+  - maybe some [home automation](92b3ba74-2df9-4879-9e9c-234421cece41.md)
+  - torrent box to hard drive
+  - something like syncthing or a Dat server
+
+## logs
 
 - 2019-08-14: [operation](7c4b615a-033c-4230-97f7-0e91139b5c9a.md)
 - 2020-02-28:
@@ -10,3 +22,6 @@ This is an experiment in using K3OS on an old Chromebook.
   - [ranching](8feab719-bfad-45ac-938e-3ccb9f8c9e72.md)
 - 2020-03-04: [disabling wifi](8e14bac7-619e-42a3-9730-8355005383c5.md)
 - 2020-03-05: [the new plan](aea5717c-3578-4b53-a070-7677e36b1d04.md)
+  - [first steps: switching to MetalLB](27f5f508-d869-4292-9036-30fc0ccaf014.md)
+- 2020-03-06:
+  - [setting up cluster access on stushiba](b9a55188-647f-4cd0-ab69-6df7e25ccb24.md)

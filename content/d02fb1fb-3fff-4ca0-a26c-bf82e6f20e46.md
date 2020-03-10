@@ -15,7 +15,11 @@ To build this out to a generalizable structure, I've got a page for the [Request
 - The Better Icons Initiative
 - CSS Plaintext Conversion
 
-# related
+## Projects I'd like to get ready for exposure?
+
+- printacle
+
+## related
 
 [a writeup series on some stuff I've made](f1403399-a887-4262-aac6-292035465eab.md)
 
