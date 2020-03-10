@@ -373,10 +373,6 @@ spec:
             backend:
               serviceName: kubeapps
               servicePort: http
-status:
-  loadBalancer:
-    ingress:
-      - ip: 192.168.0.35
 ```
 
 still 404s
