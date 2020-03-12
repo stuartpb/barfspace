@@ -27,6 +27,7 @@ I dual-boot (usually in Linux these days):
 
 - [stuzzy](8668a51b-83e9-465c-953d-f8de57201c8b.md) (Arch Linux on an x64 Chromebook)
 - [stuflon penguin](d73209e4-dfdb-457d-a65d-f33770e54449.md) (Linux subsystem on a ChromeOS Chromebook)
+- [stubarks](84c4b5e4-71cd-4c3c-ac1f-ed896ae975f6.md) (RCA Voyager running PostmarketOS)
 
 ## My household Kubernetes cluster
 
