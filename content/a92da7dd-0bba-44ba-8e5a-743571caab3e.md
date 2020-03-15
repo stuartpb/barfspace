@@ -7,6 +7,10 @@ this page lives next to pages you can find under:
 - [component ideas](cc2836d4-ad3f-4f0a-8974-981f8cc69b36.md)
 - [Smuggler's Cove](58d3072a-0670-4bc3-9db2-fca214ca725e.md)
 
+## Alphabi content
+
+- [Pilets](933fa79a-442e-4442-a87f-cd696173c493.md)
+
 ## Alphabi tools and related notes
 
 - thanked.name
