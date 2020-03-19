@@ -29,6 +29,7 @@ This is an experiment in using K3OS on an old Chromebook (now known as "studtop"
   - [first steps: switching to MetalLB](27f5f508-d869-4292-9036-30fc0ccaf014.md)
 - 2020-03-06:
   - [setting up cluster access on stushiba](b9a55188-647f-4cd0-ab69-6df7e25ccb24.md)
+- 2020-03-19: [setting up address.exposed](07e52fe5-91ae-4f98-a565-dcf10e3232c2.md)
 
 ## other useful links
 
