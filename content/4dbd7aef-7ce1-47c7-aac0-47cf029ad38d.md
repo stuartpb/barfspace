@@ -16,6 +16,7 @@ This is an experiment in using K3OS on an old Chromebook (now known as "studtop"
   - maybe some [home automation](92b3ba74-2df9-4879-9e9c-234421cece41.md)
   - torrent box to hard drive
   - something like syncthing or a Dat server
+- [distributing internal certificate?](b07aa324-ac8d-4b4d-99d2-d0dd11168b4a.md)
 
 ## logs
 
