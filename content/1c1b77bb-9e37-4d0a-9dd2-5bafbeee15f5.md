@@ -34,6 +34,7 @@ I dual-boot (usually in Linux these days):
 [Stubernetes](4dbd7aef-7ce1-47c7-aac0-47cf029ad38d.md), consisting of:
 
 - studtop, the Server node (K3OS on an x64 Toshiba Chromebook 2)
+- address.exposed, the exit node
 
 ## Stuworks
 
