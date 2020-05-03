@@ -1,26 +1,19 @@
 # Here's the News with Me
 
-Here's my page where I put little momentary thoughts. Sometimes, it's because I feel like it's just a *mood* I have to write about: other times, it's because I can't spare the energy to figure out how I want to work my thoughts into the morass of existing notes, and it'd be more efficient to just throw them on a little island and work backwards later.
+I'm still trying to reconcile this with [Right Now](41218b84-cd08-48a5-b91a-865e8b90c46a.md) - this is more reflective than that? Like, this is meant to talk about what I Definitely Did, whereas Right Now is what I'm "doing", which frequently never actually happens.
 
-For more about figuring out what was going on with me at any given point in time, check out the [Right Now][] index.
+Ultimately, it sounds like that's more of a problem with me, but until I can get a handle on it, I'm gonna charge forward with these two separated nodes.
 
-[Right Now]: 41218b84-cd08-48a5-b91a-865e8b90c46a.md
+Like that other page, archiving kind of happens whenever I decide to bury the previous content down another level in the graph: [here is the content of this page from the end of 2019](195237e6-aeb0-41a7-83e8-6a0018824a27.md).
 
-If you like all this shit you'll probably like [all my other emo shit](a281eee4-5e61-4026-846a-40fed7d38db9.md)
+## another idea I'm copying here
 
-That note and its scope are being revisited as [The Role of the News Page](4469becb-5e0a-467c-ab05-89a7e6555bca.md)
+from the index page:
 
-## Old news
+> TODO: Comb through things like my GitHub stars and Tabalanche tabs, like, weekly? And recap them here
 
-- End of September 2018: [The Week Before the Weddings](b40a356f-6296-41ca-b832-4401264992ce.md)
-- [Halloweek 2018](c66e2f2b-ad37-4c3b-8abb-706c595c05d6.md)
-- [November 14, 2018](837954f7-3214-4304-8ebe-364266ca4bc1.md)
-- [Last week of December 2018](bc599ccb-1ca7-4319-999a-6d800dba3cca.md)
-- Mid-January 2019: [kinda thinking about becoming a Freemason](dc82b319-590a-416d-9ca2-a41b489892bc.md)
-  - (I ended up deciding against it)
+Yeah, maybe I link to linkdumps I update?
 
-## Other stuff going on with me
+## May 1, 2020
 
-From [March to May of 2019](ca8263d8-e03b-44b1-a6b9-bfbc7d24311f.md), I kept meta notes about these pages here.
-
-These notes now reside in the Historium, where they'll be reworked into the rest of the graph with loving historian care.
+Been working on the wedding website, got that set up. Need to make the stylesheet more mobile-friendly.

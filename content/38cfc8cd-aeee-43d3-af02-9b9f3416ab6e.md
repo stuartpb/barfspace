@@ -6,6 +6,13 @@ https://deno.land/
 
 Well, that's neat
 
+## Ideas I've gotten after seeing Deno
+
+note that these were both just vaguely remembering the concepts I'd seen, not actually reconciled with how Deno does it
+
+- [a new approach to package management?](30f69e2a-76d4-4bb4-ace6-21baf222a75d.md)
+- [npm-style management for Deno-style includes](ff05a4a1-65bd-494a-85cc-10a40da8bef5.md)
+
 ## WASM
 
 It supports WASM, right? [yes](https://deno.land/std/manual.md#wasm-support)
