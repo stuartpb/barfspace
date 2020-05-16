@@ -2,10 +2,17 @@
 
 This is an experiment in using K3OS on an old Chromebook (now known as "studtop").
 
+## See Also
+
+- [Kubernetes note hub](f7ab56ca-06db-4c96-808f-4d0b0ee47819.md)
+  - [General k8s Projects](950653f7-1ddf-4a58-a8bd-e3d2df544bb4.md)
+  - [Idle k8s Research](fe193832-2ffa-4cd4-a458-ec2c73cbe9b3.md)
+
 ## plans
 
-- [latest plan](2bb638db-594b-448d-a643-988be98d612c.md)
-  - [another plan hub](6eaacf19-314a-4d54-a197-8ee0430f6273.md)
+- [latest plan and work](de490ea9-f480-4e03-a671-0d1173753c53.md)
+- [earlier latest plan](2bb638db-594b-448d-a643-988be98d612c.md)
+- [another plan hub](6eaacf19-314a-4d54-a197-8ee0430f6273.md)
   - [whoops, other hub](911b54f8-89e0-4b92-a07c-cfee57f69d7a.md)
     - I accidentally wrote this on stuzzy
     - could maybe turn into just being the notes for authn / Dex
@@ -33,7 +40,11 @@ This is an experiment in using K3OS on an old Chromebook (now known as "studtop"
 - 2020-03-06:
   - [setting up cluster access on stushiba](b9a55188-647f-4cd0-ab69-6df7e25ccb24.md)
 - 2020-03-19: [setting up address.exposed](07e52fe5-91ae-4f98-a565-dcf10e3232c2.md)
+<<<<<<< HEAD
 - 2020-03-31: [executing](515478b1-74db-434c-9949-1053d46aa653.md)
+=======
+- mid-May 2020: [latest shenanigans](de490ea9-f480-4e03-a671-0d1173753c53.md)
+>>>>>>> d0da9ef... Lots of new notes
 
 ## other useful links
 

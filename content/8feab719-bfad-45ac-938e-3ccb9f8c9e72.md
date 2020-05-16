@@ -320,7 +320,7 @@ main.main()
 
 looks like I probably need `clusterAdminRole: true`
 
-## still gtting errors
+## still getting errors
 
 whatever, `kubectl apply -f https://raw.githubusercontent.com/kubernetes/dashboard/v2.0.0-rc5/aio/deploy/recommended.yaml`
 
