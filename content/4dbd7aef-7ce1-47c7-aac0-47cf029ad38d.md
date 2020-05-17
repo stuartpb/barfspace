@@ -8,24 +8,37 @@ This is an experiment in using K3OS on an old Chromebook (now known as "studtop"
   - [General k8s Projects](950653f7-1ddf-4a58-a8bd-e3d2df544bb4.md)
   - [Idle k8s Research](fe193832-2ffa-4cd4-a458-ec2c73cbe9b3.md)
 
-## plans
+## system infrastructure plans
 
-- [latest plan and work](de490ea9-f480-4e03-a671-0d1173753c53.md)
-- [earlier latest plan](2bb638db-594b-448d-a643-988be98d612c.md)
-- [another plan hub](6eaacf19-314a-4d54-a197-8ee0430f6273.md)
-  - [whoops, other hub](911b54f8-89e0-4b92-a07c-cfee57f69d7a.md)
-    - I accidentally wrote this on stuzzy
-    - could maybe turn into just being the notes for authn / Dex
-- [implementations details](aea5717c-3578-4b53-a070-7677e36b1d04.md)
-  - [volume provisioning plan](4359d3b6-185b-40b3-8f00-64c8f1b4b528.md)
-  - [serving at least one DNS](ce6da281-bfd6-4c42-a1e9-31e8fda39c08.md)
-  - [future external ingress](948d361e-7a98-43a0-9bad-37bc4ff982ec.md)
-  - [random ssh gateway idea](b2c1365f-1a45-40a7-a853-1863eef58c38.md)
-- application plans:
-  - maybe some [home automation](92b3ba74-2df9-4879-9e9c-234421cece41.md)
-  - torrent box to hard drive
-  - something like syncthing or a Dat server
-- [distributing internal certificate?](b07aa324-ac8d-4b4d-99d2-d0dd11168b4a.md)
+- [State of the Cluster](a4389025-9425-4fe1-ab3b-8d086bce6a13.md)
+  - [Internal / External ingresses / proxy outlay](911b54f8-89e0-4b92-a07c-cfee57f69d7a.md)
+    - background:
+      - [naive formulation](aea5717c-3578-4b53-a070-7677e36b1d04.md)
+      - [discovering the DNS won't work that way](515478b1-74db-434c-9949-1053d46aa653.md)
+      - [dialing the IP block back massively](07e52fe5-91ae-4f98-a565-dcf10e3232c2.md)
+      - [rethinking the internal/external ingresses](2bb638db-594b-448d-a643-988be98d612c.md)
+      - [total service restructuring](de490ea9-f480-4e03-a671-0d1173753c53.md)
+    - [Ingress implementations](948d361e-7a98-43a0-9bad-37bc4ff982ec.md)
+    - [serving at least one DNS](ce6da281-bfd6-4c42-a1e9-31e8fda39c08.md)
+      - [External DNS for internal/external use](5027bedf-e8e5-4900-ac7f-c988a4b89b32.md)
+  - [Longhorn / storage / volume provisioning plan](4359d3b6-185b-40b3-8f00-64c8f1b4b528.md)
+  - [Structuring address.expose](cc62331b-165f-445a-ac1c-7166e0d25591.md)
+  - [Auth layers](3742c69e-5707-449a-a23c-ae56f2931114.md)
+  - [Storage Mounting](b07a7c96-040d-405a-aa7f-92e401feede8.md)
+- vaguer possible future-addressable concerns:
+  - [distributing internal certificate?](b07aa324-ac8d-4b4d-99d2-d0dd11168b4a.md)
+  - [other vitamins](6eaacf19-314a-4d54-a197-8ee0430f6273.md)
+    - rootlesskit
+    - ipv6
+
+## application plans
+
+- maybe some [home automation](92b3ba74-2df9-4879-9e9c-234421cece41.md)
+- torrent box to hard drive
+- something like syncthing or a Dat server
+- Mastodon
+- [random ssh gateway idea](b2c1365f-1a45-40a7-a853-1863eef58c38.md)
+- [other stuff I wrote originally](aea5717c-3578-4b53-a070-7677e36b1d04.md)
 
 ## logs
 
@@ -40,11 +53,9 @@ This is an experiment in using K3OS on an old Chromebook (now known as "studtop"
 - 2020-03-06:
   - [setting up cluster access on stushiba](b9a55188-647f-4cd0-ab69-6df7e25ccb24.md)
 - 2020-03-19: [setting up address.exposed](07e52fe5-91ae-4f98-a565-dcf10e3232c2.md)
-<<<<<<< HEAD
 - 2020-03-31: [executing](515478b1-74db-434c-9949-1053d46aa653.md)
-=======
+  - this is where I ran into a couple enormous hitches and petered off for a month and a half
 - mid-May 2020: [latest shenanigans](de490ea9-f480-4e03-a671-0d1173753c53.md)
->>>>>>> d0da9ef... Lots of new notes
 
 ## other useful links
 

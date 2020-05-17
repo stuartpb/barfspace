@@ -376,3 +376,5 @@ spec:
 ```
 
 still 404s
+
+EDIT FROM THE FUTURE: MAybe because I had "kubeapps" as the service but "kubernetes-dashboard" as the host? smh
