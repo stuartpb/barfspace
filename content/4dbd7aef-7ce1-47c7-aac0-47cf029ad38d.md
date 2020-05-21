@@ -22,6 +22,10 @@ This is an experiment in using K3OS on an old Chromebook (now known as "studtop"
     - [serving at least one DNS](ce6da281-bfd6-4c42-a1e9-31e8fda39c08.md)
       - [External DNS for internal/external use](5027bedf-e8e5-4900-ac7f-c988a4b89b32.md)
   - [Longhorn / storage / volume provisioning plan](4359d3b6-185b-40b3-8f00-64c8f1b4b528.md)
+    - [Cloning the bulk disk's old content away in the dumbest way possible](50db1a39-be99-42ff-ab74-ab0661d0ca2d.md)
+    - [More thoughts about the disk structure](1cf35c69-7e2c-42ba-ac03-ee5258cf426a.md)
+    - [More thoughts about the storage classes](c3e85735-1074-4db1-aa59-bf38afb16fa3.md)
+    - [Thoughts on a deeper construct of storage class](ec256287-bb4b-4ed3-9417-72f37eb4d063.md)
   - [Structuring address.expose](cc62331b-165f-445a-ac1c-7166e0d25591.md)
   - [Auth layers](3742c69e-5707-449a-a23c-ae56f2931114.md)
   - [Storage Mounting](b07a7c96-040d-405a-aa7f-92e401feede8.md)
@@ -56,6 +60,7 @@ This is an experiment in using K3OS on an old Chromebook (now known as "studtop"
 - 2020-03-31: [executing](515478b1-74db-434c-9949-1053d46aa653.md)
   - this is where I ran into a couple enormous hitches and petered off for a month and a half
 - mid-May 2020: [latest shenanigans](de490ea9-f480-4e03-a671-0d1173753c53.md)
+- 2020-05-20 or so: [getting the cluster info into Git](a66292a0-b50c-42ac-971b-5cc23cf6e91a.md)
 
 ## other useful links
 
