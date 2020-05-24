@@ -22,27 +22,31 @@ This is an experiment in using K3OS on an old Chromebook (now known as "studtop"
     - [serving at least one DNS](ce6da281-bfd6-4c42-a1e9-31e8fda39c08.md)
       - [External DNS for internal/external use](5027bedf-e8e5-4900-ac7f-c988a4b89b32.md)
   - [Longhorn / storage / volume provisioning plan](4359d3b6-185b-40b3-8f00-64c8f1b4b528.md)
-    - [Cloning the bulk disk's old content away in the dumbest way possible](50db1a39-be99-42ff-ab74-ab0661d0ca2d.md)
+    - [Initial storage mounting notes](b07a7c96-040d-405a-aa7f-92e401feede8.md)
     - [More thoughts about the disk structure](1cf35c69-7e2c-42ba-ac03-ee5258cf426a.md)
     - [More thoughts about the storage classes](c3e85735-1074-4db1-aa59-bf38afb16fa3.md)
     - [Thoughts on a deeper construct of storage class](ec256287-bb4b-4ed3-9417-72f37eb4d063.md)
+    - [More brainstorming / Trying to draft a spec](382b0264-cc60-4e4a-a7ad-72935a2ee6fd.md)
+    - [More caveats about mounting directly from udev](4150a6ea-5ebc-4e88-9ab5-a9951710a4bc.md)
   - [Structuring address.expose](cc62331b-165f-445a-ac1c-7166e0d25591.md)
   - [Auth layers](3742c69e-5707-449a-a23c-ae56f2931114.md)
-  - [Storage Mounting](b07a7c96-040d-405a-aa7f-92e401feede8.md)
 - vaguer possible future-addressable concerns:
   - [distributing internal certificate?](b07aa324-ac8d-4b4d-99d2-d0dd11168b4a.md)
+  - [mDNS](7aac9bcb-56da-4767-88e2-fc7e36fe4a1a.md)
   - [other vitamins](6eaacf19-314a-4d54-a197-8ee0430f6273.md)
     - rootlesskit
     - ipv6
+  - [out-of-band management](4c4ef560-d283-4665-8fcb-25c2addd9253.md)
 
 ## application plans
 
-- maybe some [home automation](92b3ba74-2df9-4879-9e9c-234421cece41.md)
-- torrent box to hard drive
-- something like syncthing or a Dat server
-- Mastodon
+- [Suite Brainstorming](a6b94843-8569-4a45-a25d-ae69a2d9fc22.md)
+  - maybe some [home automation](92b3ba74-2df9-4879-9e9c-234421cece41.md)
+  - torrent box to hard drive
+  - something like syncthing or a Dat server
+  - Mastodon
+  - [other stuff I wrote originally](aea5717c-3578-4b53-a070-7677e36b1d04.md)
 - [random ssh gateway idea](b2c1365f-1a45-40a7-a853-1863eef58c38.md)
-- [other stuff I wrote originally](aea5717c-3578-4b53-a070-7677e36b1d04.md)
 
 ## logs
 
@@ -60,7 +64,15 @@ This is an experiment in using K3OS on an old Chromebook (now known as "studtop"
 - 2020-03-31: [executing](515478b1-74db-434c-9949-1053d46aa653.md)
   - this is where I ran into a couple enormous hitches and petered off for a month and a half
 - mid-May 2020: [latest shenanigans](de490ea9-f480-4e03-a671-0d1173753c53.md)
-- 2020-05-20 or so: [getting the cluster info into Git](a66292a0-b50c-42ac-971b-5cc23cf6e91a.md)
+- 2020-05-20 or so:
+  - [Cloning the bulk disk's old content away in the dumbest way possible](50db1a39-be99-42ff-ab74-ab0661d0ca2d.md)
+  - [getting the cluster info into Git](a66292a0-b50c-42ac-971b-5cc23cf6e91a.md)
+- 2020-05-23:
+  - [formatting the disk](d5d05f3d-21b7-4445-ac6b-8d0e3f483f37.md)
+  - [fixing cluster-dns](38a68c9c-c6af-43a8-a24c-2d2300528464.md)
+  - [in which we actually do the thing we meant to do all week](965ae40d-d67d-4adc-aef6-727290dc44c4.md)
+
+tomorrow: [Things to Do in Kubernetes When You're Done Fucking with Longhorn](3bfb1a24-ca82-41f0-a2b0-fa8a0ba7d8b8.md)
 
 ## other useful links
 
