@@ -87,7 +87,7 @@ Logs of projects running alongside this:
 - 2020-05-24: [Things to Do in Kubernetes When You're Done Fucking with Longhorn](3bfb1a24-ca82-41f0-a2b0-fa8a0ba7d8b8.md)
   - [setting up an ingress](3758cf1a-01a7-4529-8344-9f4e621eb8c7.md)
 - 2020-05-26: [Trying out household-workspaces](98583255-8ee5-4d4d-aade-92dbdde01f63.md)
-  - still need to set up household-dns
+- 2020-05-27: [The SkyDNS half of household-dns](598de530-7e33-44eb-83ce-e15edf3a5405.md)
 
 ## other useful links
 
