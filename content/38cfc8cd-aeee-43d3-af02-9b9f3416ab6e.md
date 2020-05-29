@@ -6,6 +6,10 @@ https://deno.land/
 
 Well, that's neat
 
+## News covering / introducing Deno
+
+- https://stackoverflow.blog/2020/05/22/deno-v1-0-0-released-to-solve-node-js-design-flaws/?cb=1
+
 ## Ideas I've gotten after seeing Deno
 
 note that these were both just vaguely remembering the concepts I'd seen, not actually reconciled with how Deno does it

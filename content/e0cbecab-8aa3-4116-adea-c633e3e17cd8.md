@@ -4,6 +4,8 @@
 
 - [NodeMCU/ESP8266/ESP32](be8ef21f-ea6e-4f96-8b87-9a54694fb29f.md)
 - [TinyGo](332c3f1f-5f04-4db8-83c4-93b4e3469c31.md)
+- [Digispark](fa1b4277-3bb2-4391-ac38-acd221709d56.md)
+- [Tomu](7ab8e66a-f8d4-4086-9cf6-69e62515e932.md)
 
 ## Microcontroller-Agnostic Ideas
 

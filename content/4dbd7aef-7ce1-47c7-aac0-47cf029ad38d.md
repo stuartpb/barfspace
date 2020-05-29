@@ -16,6 +16,7 @@ Logs of projects running alongside this:
 ## Hot Notes
 
 - [Quick Access Commands/Links](8b628486-97a4-4439-a7ab-8cde0c7b6b59.md)
+- [Household Internal IP Address Numbering Plan](13a3f35d-bc38-4427-85e7-30ce8352e1d7.md)
 
 ## system infrastructure plans
 
@@ -24,13 +25,13 @@ Logs of projects running alongside this:
 - Pending Plans:
   - [Internal / External ingresses / proxy outlay](911b54f8-89e0-4b92-a07c-cfee57f69d7a.md)
     - background:
-      - [discovering the DNS won't work that way](515478b1-74db-434c-9949-1053d46aa653.md)
       - [dialing the IP block back massively](07e52fe5-91ae-4f98-a565-dcf10e3232c2.md)
       - [total service restructuring](de490ea9-f480-4e03-a671-0d1173753c53.md)
     - [Internal Service Household DNS](9c5c2983-d09d-46de-aace-207223bc82a6.md)
       - [Ingress-less Internal Services](2bb638db-594b-448d-a643-988be98d612c.md)
       - [Using external-dns Internally](5027bedf-e8e5-4900-ac7f-c988a4b89b32.md)
   - [Structuring address.expose](cc62331b-165f-445a-ac1c-7166e0d25591.md)
+    - [namespace for exposed-system ingress server / forwarding components](78628f7d-78e4-440c-a92e-c60f9f09be7b.md)
   - [Auth layers](3742c69e-5707-449a-a23c-ae56f2931114.md)
   - [Exposing Home Services](a7a4dc01-33cc-4466-aac4-582dcb86e8e3.md)
 - vaguer possible future-addressable concerns:
@@ -50,13 +51,8 @@ Logs of projects running alongside this:
   - torrent box to hard drive
   - something like syncthing or a Dat server
   - Mastodon
-- notestack namespace, notestack.stuartpb.internal (and potentially notestack.stuartpb.com once it's public-exposable)
-  - GitLab
-  - GitPod
-  - JupyterHub
-  - dat
+- [Notestack workspace](40517705-1f53-4629-8fe3-cc6733bcf3b0.md)
 - probably starting a stuartpb namespace with a CouchDB server on it that I can sync my Tabalanche tabs to
-  - [other stuff I wrote originally](aea5717c-3578-4b53-a070-7677e36b1d04.md)
 - [random ssh gateway idea](b2c1365f-1a45-40a7-a853-1863eef58c38.md)
 - [TensorFlow via Coral](09282b35-a21c-4c97-a5ed-7f015d6735d1.md)
   - Voice recognition for an Alexa clone
@@ -88,6 +84,9 @@ Logs of projects running alongside this:
   - [setting up an ingress](3758cf1a-01a7-4529-8344-9f4e621eb8c7.md)
 - 2020-05-26: [Trying out household-workspaces](98583255-8ee5-4d4d-aade-92dbdde01f63.md)
 - 2020-05-27: [The SkyDNS half of household-dns](598de530-7e33-44eb-83ce-e15edf3a5405.md)
+- 2020-05-28:
+  - [Finishing the CoreDNS half](84be6927-2ff2-461b-9078-86d31e9f3509.md)
+  - [Making it work](219b93f6-2ec1-4c82-9d8b-e2919417cbb3.md)
 
 ## other useful links
 
