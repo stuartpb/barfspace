@@ -34,6 +34,7 @@ Logs of projects running alongside this:
     - [namespace for exposed-system ingress server / forwarding components](78628f7d-78e4-440c-a92e-c60f9f09be7b.md)
   - [Auth layers](3742c69e-5707-449a-a23c-ae56f2931114.md)
   - [Exposing Home Services](a7a4dc01-33cc-4466-aac4-582dcb86e8e3.md)
+      - [Authn layers (ie. oauth2-proxy / Dex)](4e8ff63a-1af5-472f-894e-aa77c859ba10.md)
 - vaguer possible future-addressable concerns:
   - [distributing internal certificate?](b07aa324-ac8d-4b4d-99d2-d0dd11168b4a.md)
   - [mDNS on k3os?](7aac9bcb-56da-4767-88e2-fc7e36fe4a1a.md)
@@ -43,6 +44,10 @@ Logs of projects running alongside this:
     - alternate network layer (ie. calico)
     - ipv6
   - [out-of-band management](4c4ef560-d283-4665-8fcb-25c2addd9253.md)
+
+## namespace-level subprojects
+
+- [household-workspaces](98583255-8ee5-4d4d-aade-92dbdde01f63.md)
 
 ## application plans
 
@@ -56,6 +61,7 @@ Logs of projects running alongside this:
 - [random ssh gateway idea](b2c1365f-1a45-40a7-a853-1863eef58c38.md)
 - [TensorFlow via Coral](09282b35-a21c-4c97-a5ed-7f015d6735d1.md)
   - Voice recognition for an Alexa clone
+- [VM stuff](a48a24b4-28b1-4658-aa93-56022ab95f48.md)
 
 ## logs
 
@@ -82,11 +88,12 @@ Logs of projects running alongside this:
   - [in which we actually do the thing we meant to do all week](965ae40d-d67d-4adc-aef6-727290dc44c4.md)
 - 2020-05-24: [Things to Do in Kubernetes When You're Done Fucking with Longhorn](3bfb1a24-ca82-41f0-a2b0-fa8a0ba7d8b8.md)
   - [setting up an ingress](3758cf1a-01a7-4529-8344-9f4e621eb8c7.md)
-- 2020-05-26: [Trying out household-workspaces](98583255-8ee5-4d4d-aade-92dbdde01f63.md)
+- 2020-05-26: created the [household-workspaces](98583255-8ee5-4d4d-aade-92dbdde01f63.md) namespace
 - 2020-05-27: [The SkyDNS half of household-dns](598de530-7e33-44eb-83ce-e15edf3a5405.md)
 - 2020-05-28:
   - [Finishing the CoreDNS half](84be6927-2ff2-461b-9078-86d31e9f3509.md)
   - [Making it work](219b93f6-2ec1-4c82-9d8b-e2919417cbb3.md)
+- 2020-05-29: [o brave new world, that has such servers in't(ernal)](62dd6ff2-2f9b-410c-ab05-0c11abcca74b.md)
 
 ## other useful links
 
