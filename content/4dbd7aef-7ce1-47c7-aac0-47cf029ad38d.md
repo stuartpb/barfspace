@@ -8,7 +8,7 @@ This is an experiment in using K3OS on an old Chromebook (now known as "studtop"
   - [General k8s Projects](950653f7-1ddf-4a58-a8bd-e3d2df544bb4.md)
   - [Idle k8s Research](fe193832-2ffa-4cd4-a458-ec2c73cbe9b3.md)
 
-Logs of projects running alongside this:
+## Related projects
 
 - [Pluskube Org](5a693b09-a5ea-4305-a375-2aaff05f1048.md)
 - [Wayside Org](3d49b071-e0f1-4c21-99f0-c8be7b2361dc.md)
@@ -20,10 +20,15 @@ Logs of projects running alongside this:
 - [Quick Access Commands/Links](8b628486-97a4-4439-a7ab-8cde0c7b6b59.md)
 - [Household Internal IP Address Numbering Plan](13a3f35d-bc38-4427-85e7-30ce8352e1d7.md)
 
+## Projects On Stubernetes
+
+- [the Notestack Household Workspace](67826054-ed26-41e6-80c9-5d677e6a8cba.md)
+
 ## system infrastructure plans
 
 - [State of the Cluster](a4389025-9425-4fe1-ab3b-8d086bce6a13.md)
   - [State of Stateful Storage](c43b76d1-1f70-493e-ade8-1fe2bcba0a03.md)
+  - [State of Nodes and RAM](3f468977-84d8-45f5-9381-408fc7c6adab.md)
   - Apologies for the next several items, I'm planning a refactor here
   - State of DNS and Routing
     - MetalLB and external-dns stuff go here
@@ -66,7 +71,6 @@ Logs of projects running alongside this:
 ## issues under investigation
 
 - [proactive diagnosis and discovery](e1115e77-62fa-40c5-abbc-bd81c1118d2d.md)
-  - also: what is wrong with
 - [household-dns throwing up at normative load](b732fb93-07d4-4ca1-a0e1-306e4ac98a35.md)
 - [kubeapps and its stupid cron jobs](18a4adb8-23e9-4f89-adea-b61a8d077ebb.md)
 
@@ -125,6 +129,11 @@ Logs of projects running alongside this:
   - [installing prometheus-operator](45ec0eb8-05e7-474d-ad8e-3153c23b4daf.md)
   - [fixing the server clock](a55d7878-a29b-4cef-a151-4cfd765ebb88.md), ooh wee
   - [Persistent Storage to Make the Workspace Work](54250980-bf8c-43a7-a028-d838467bbb33.md)
+- 2020-06-03:
+  - [We have self-hosting notes, repeat, we have self-hosting notes](1558a75c-b543-452d-a119-d584595479ab.md)
+  - [USB peripheral FAIL](86357bd3-3773-4f91-bc47-1aa9c04e5a16.md)
+- 2020-06-04:
+  - [adding more space](e592bf80-3dd2-4689-934f-2374a487308d.md)
 
 ## other useful links
 
