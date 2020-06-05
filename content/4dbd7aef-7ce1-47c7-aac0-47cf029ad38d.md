@@ -8,89 +8,22 @@ This is an experiment in using K3OS on an old Chromebook (now known as "studtop"
   - [General k8s Projects](950653f7-1ddf-4a58-a8bd-e3d2df544bb4.md)
   - [Idle k8s Research](fe193832-2ffa-4cd4-a458-ec2c73cbe9b3.md)
 
-## Related projects
+## Subprojects / namespaces
 
-- [Pluskube Org](5a693b09-a5ea-4305-a375-2aaff05f1048.md)
-- [Wayside Org](3d49b071-e0f1-4c21-99f0-c8be7b2361dc.md)
-- [ST Public Universal Friend](1b61dbdc-5013-4ca8-825e-6d49db1eca61.md)
+- [household-workspaces](98583255-8ee5-4d4d-aade-92dbdde01f63.md)
+  - [the Notestack Household Workspace](67826054-ed26-41e6-80c9-5d677e6a8cba.md)
 - Unusual Studio (.net, potentially/planned)
+- Orgs and accounts:
+  - [Pluskube Org](5a693b09-a5ea-4305-a375-2aaff05f1048.md)
+  - [Wayside Org](3d49b071-e0f1-4c21-99f0-c8be7b2361dc.md)
+  - [ST Public Universal Friend](1b61dbdc-5013-4ca8-825e-6d49db1eca61.md)
 
 ## Hot Notes
 
 - [Quick Access Commands/Links](8b628486-97a4-4439-a7ab-8cde0c7b6b59.md)
 - [Household Internal IP Address Numbering Plan](13a3f35d-bc38-4427-85e7-30ce8352e1d7.md)
-
-## Projects On Stubernetes
-
-- [the Notestack Household Workspace](67826054-ed26-41e6-80c9-5d677e6a8cba.md)
-
-## system infrastructure plans
-
 - [State of the Cluster](a4389025-9425-4fe1-ab3b-8d086bce6a13.md)
-  - [State of Stateful Storage](c43b76d1-1f70-493e-ade8-1fe2bcba0a03.md)
-  - [State of Nodes and RAM](3f468977-84d8-45f5-9381-408fc7c6adab.md)
-  - Apologies for the next several items, I'm planning a refactor here
-  - State of DNS and Routing
-    - MetalLB and external-dns stuff go here
-  - State of Ingress and Exposure
-  - State of Monitoring and Instrumentation
-  - State of Authentication
-    - currently, there is none
-    - the [Public Universal Friend](1b61dbdc-5013-4ca8-825e-6d49db1eca61.md) represents any zone that doesn't require my credentials to access
-  - State of Certification
-
-## Immediate plans
-
-- [Internal / External ingresses / proxy outlay](911b54f8-89e0-4b92-a07c-cfee57f69d7a.md)
-  - background:
-    - [dialing the IP block back massively](07e52fe5-91ae-4f98-a565-dcf10e3232c2.md)
-    - [total service restructuring](de490ea9-f480-4e03-a671-0d1173753c53.md)
-  - [Internal Service Household DNS](9c5c2983-d09d-46de-aace-207223bc82a6.md)
-    - [Ingress-less Internal Services](2bb638db-594b-448d-a643-988be98d612c.md)
-    - [Using external-dns Internally](5027bedf-e8e5-4900-ac7f-c988a4b89b32.md)
-- [Structuring address.expose](cc62331b-165f-445a-ac1c-7166e0d25591.md)
-  - [namespace for exposed-system ingress server / forwarding components](78628f7d-78e4-440c-a92e-c60f9f09be7b.md)
-- [Auth layers](3742c69e-5707-449a-a23c-ae56f2931114.md)
-- [Exposing Home Services](a7a4dc01-33cc-4466-aac4-582dcb86e8e3.md)
-    - [Authn layers (ie. oauth2-proxy / Dex)](4e8ff63a-1af5-472f-894e-aa77c859ba10.md)
-
-## Other further-future/less-urgent plans
-
-- [distributing internal certificate?](b07aa324-ac8d-4b4d-99d2-d0dd11168b4a.md)
-- Flux for maintaining the cluster state in Git
-  - stubernetes-setup is currently a little gimpy
-  - will Flux let me put everything in a subpath, so "k3os hacks" can still live in the Git tree?
-- [mDNS on k3os?](7aac9bcb-56da-4767-88e2-fc7e36fe4a1a.md)
-  - [mDNS Within Kubernetes](82344970-ee2e-4830-9c30-d14d8c4f0f55.md)
-- [other vitamins](6eaacf19-314a-4d54-a197-8ee0430f6273.md)
-  - [rootlesskit](8f3bc39c-c54d-4156-958d-5571e353309b.md)
-  - alternate network layer (ie. calico)
-  - ipv6
-- [out-of-band hardware management](4c4ef560-d283-4665-8fcb-25c2addd9253.md)
-
-## issues under investigation
-
-- [proactive diagnosis and discovery](e1115e77-62fa-40c5-abbc-bd81c1118d2d.md)
-- [household-dns throwing up at normative load](b732fb93-07d4-4ca1-a0e1-306e4ac98a35.md)
-- [kubeapps and its stupid cron jobs](18a4adb8-23e9-4f89-adea-b61a8d077ebb.md)
-
-## namespace-level subprojects
-
-- [household-workspaces](98583255-8ee5-4d4d-aade-92dbdde01f63.md)
-
-## application plans
-
-- [Suite Brainstorming](a6b94843-8569-4a45-a25d-ae69a2d9fc22.md)
-  - maybe some [home automation](92b3ba74-2df9-4879-9e9c-234421cece41.md)
-  - torrent box to hard drive
-  - something like syncthing or a Dat server
-  - Mastodon
-- [Notestack workspace](40517705-1f53-4629-8fe3-cc6733bcf3b0.md)
-- probably starting a stuartpb namespace with a CouchDB server on it that I can sync my Tabalanche tabs to
-- [random ssh gateway idea](b2c1365f-1a45-40a7-a853-1863eef58c38.md)
-- [TensorFlow via Coral](09282b35-a21c-4c97-a5ed-7f015d6735d1.md)
-  - Voice recognition for an Alexa clone
-- [VM stuff](a48a24b4-28b1-4658-aa93-56022ab95f48.md)
+- [Planning and Exploration](9ac503ed-a6d8-4fc3-996b-d1e94d18e139.md)
 
 ## logs
 
@@ -108,6 +41,7 @@ This is an experiment in using K3OS on an old Chromebook (now known as "studtop"
 - 2020-03-31: [executing](515478b1-74db-434c-9949-1053d46aa653.md)
   - this is where I ran into a couple enormous hitches and petered off for a month and a half
 - mid-May 2020: [latest shenanigans](de490ea9-f480-4e03-a671-0d1173753c53.md)
+  - [Sprint summary](40c69f2f-1c10-4ae6-a40b-cdd74c8e26bf.md)
 - 2020-05-20 or so:
   - [Cloning the bulk disk's old content away in the dumbest way possible](50db1a39-be99-42ff-ab74-ab0661d0ca2d.md)
   - [getting the cluster info into Git](a66292a0-b50c-42ac-971b-5cc23cf6e91a.md)
@@ -134,7 +68,5 @@ This is an experiment in using K3OS on an old Chromebook (now known as "studtop"
   - [USB peripheral FAIL](86357bd3-3773-4f91-bc47-1aa9c04e5a16.md)
 - 2020-06-04:
   - [adding more space](e592bf80-3dd2-4689-934f-2374a487308d.md)
-
-## other useful links
-
-- https://kubernetes.io/docs/tasks/access-application-cluster/access-cluster/#manually-constructing-apiserver-proxy-urls
+- 2020-06-05:
+  - [Upgrading the Prometheus Operator Chart](fd75a490-63d2-4736-a3e3-a6cad0634d5d.md)
