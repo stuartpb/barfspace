@@ -1,2 +1,9 @@
+#! /usr/bin/env bash
+
+if [ "$HOME" = /home/coder ]; then
+  # hack around codercom/code-server's broken Node.js binary for the moment
+  export LD_LIBRARY_PATH=
+fi
+
 LC_ALL=C comm -23  <(find content -type f | sort) \
   <(bagtent-distances README.md --reachable)
