@@ -1,0 +1,24 @@
+#! /usr/bin/env bash
+
+LINK_NAME=${LINK_NAME:-$1}
+if [[ -z "$LINK_NAME" ]]; then
+  read LINK_NAME
+fi
+
+# yes, this implementation is different from the one in bagtent-conjure.
+# I'm not sure how to package this kind of thing:
+# - source the output of a command like how udev does with `blkinfo`?
+
+if [[ -z "$CONTENT_DIR" && -d content ]]; then
+  CONTENT_DIR=content/
+fi
+
+if [[ -n "$CONTENT_DIR" && "${CONTENT_DIR: -1}" != "/" ]]; then
+  CONTENT_DIR=$CONTENT_DIR/
+fi
+
+## here's the meat
+
+filename=$(bagtent-conjure)
+echo "# $LINK_NAME" >"$CONTENT_DIR$filename"
+echo "[$LINK_NAME]($filename)"
