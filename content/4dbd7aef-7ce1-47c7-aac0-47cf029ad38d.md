@@ -67,6 +67,10 @@ This is an experiment in using K3OS on an old Chromebook (now known as "studtop"
   - [We have self-hosting notes, repeat, we have self-hosting notes](1558a75c-b543-452d-a119-d584595479ab.md)
   - [USB peripheral FAIL](86357bd3-3773-4f91-bc47-1aa9c04e5a16.md)
 - 2020-06-04:
-  - [adding more space](e592bf80-3dd2-4689-934f-2374a487308d.md)
+  - PLAN START: [adding more space](e592bf80-3dd2-4689-934f-2374a487308d.md)
+    - not slated for completion until 2020-06-07
 - 2020-06-05:
-  - [Upgrading the Prometheus Operator Chart](fd75a490-63d2-4736-a3e3-a6cad0634d5d.md)
+  - PLAN START: [Upgrading the Prometheus Operator Chart](fd75a490-63d2-4736-a3e3-a6cad0634d5d.md)~~
+    - not slated for enactment until after 2020-06-07 containerd-opt thing
+- 2020-06-07:
+  - [The Plan for Introducing the containerd-opt Flash Drive](c8dc2bdd-4e39-4b37-88c5-dc1d29415557.md)
