@@ -16,7 +16,7 @@ This is an experiment in using K3OS on an old Chromebook (now known as "studtop"
 - Unusual Studio (.net, potentially/planned)
 - Orgs and accounts:
   - [Pluskube Org](5a693b09-a5ea-4305-a375-2aaff05f1048.md)
-    - probably where I'll run the [Not Charted Here repository](bf5d0a0a-046a-472a-a75b-502692ab7ed4.md)
+    - [A Few Ideas for Initial Pluskube Projects](7febb0b3-9449-4b79-94e8-35c7f90e489e.md)
   - [Wayside Org](3d49b071-e0f1-4c21-99f0-c8be7b2361dc.md)
   - [ST Public Universal Friend](1b61dbdc-5013-4ca8-825e-6d49db1eca61.md)
 
@@ -30,10 +30,20 @@ This is an experiment in using K3OS on an old Chromebook (now known as "studtop"
 - [State of the Cluster](a4389025-9425-4fe1-ab3b-8d086bce6a13.md)
   - This is an artifact from the first iteration, but the second is expected to mostly resemble it anyway
 - [Rebuilding Plans](9e684107-b6e6-4ef5-9541-41db74ccf19c.md)
+- [Auth layers](3742c69e-5707-449a-a23c-ae56f2931114.md)
+
+future:
+
 - [Raspberry Pi for System Components](c25a1b6a-875b-4fde-96c0-98464511170b.md)
   - [Pi (Zero) Cluster Master idea exploration](0350472e-ecb7-4e9f-a50b-48595cd95204.md)
 - [More Concrete Cluster Storage Hardware Planning](72c757ac-be67-4aec-8fe6-42892e0e88d3.md)
 - [A More-Clear-on-Ambition Software/Disk Structure Plan](eca090fd-7edb-4d56-9a5b-6f1836b1412c.md)
+- [Optimizing for Flash Media](e64f550b-a14e-4ca8-a68a-0b88a07051e1.md)
+
+## Hardware plans
+
+- Raspberry Pi (needs a name?)
+- [Studlow](5ad7f8ad-00fa-4df1-b99c-aba20b89f222.md)
 
 ## logs
 
@@ -44,3 +54,10 @@ This is an experiment in using K3OS on an old Chromebook (now known as "studtop"
     - [Abortive Kubic Install to PNY Elite-X](3e9a1fd5-79c0-45ee-bf29-bffb9ed6a004.md)
 - [Installing Kubic on Studtop](55aeedd3-c454-4e9f-bd5c-09c654d62965.md)
 - [Following the Rebuilding Plan](2d2421e6-4ef4-4a37-aaa8-bd6fa0f81a0d.md)
+- 2020-06-14: [Rebuilding continues](623a3875-457f-4655-b193-5d169fb12823.md)
+  - [Preparing for OpenEBS](4fcce049-7817-4182-9330-4a2ee9803b1e.md)
+  - [Retracing household-dns](4094f9be-62eb-430c-9292-1728894718fe.md)
+  - [Actually installing OpenEBS](4cbb0df2-0ef7-4678-a394-a1e547069804.md)
+  - [The Return of Prometheus](535fc2bc-7b0d-4b98-a7a3-f3562334ef97.md)
+  - [Trying to get OpenEBS Working](4d85dd50-a1f9-414b-bbfb-fdc9605e888d.md)
+- [rabbit path for reinstalling kubic 2020-06-17](58ebafed-21df-46da-9c7a-ff91f51f06f8.md)

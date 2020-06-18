@@ -41,7 +41,7 @@ I dual-boot (usually in Linux these days):
 
 ## Portable media installations
 
-- [sturling](70988968-e980-4d15-93ce-1a2eeb67e77c.md) (Arch Linux on a 32GB flash drive)
+- [Sturling 2020](93f6b670-133e-4e8c-b583-ce27243a48c9.md) (Arch Linux on a USB 256GB MicroSD card )
 - [stuquart](eaac9d0b-dc62-4b54-9983-feb76c54da5b.md) (Windows 10 on a 500GB hard drive in a USB3 enclosure)
 
 ## My household Kubernetes cluster

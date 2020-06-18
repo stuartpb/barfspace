@@ -14,6 +14,10 @@ These are an odd series of notes with a similar "vibe" that I can't quite define
 - [Anarchy Headquarters](c47c2afa-59e0-4cde-a5b5-6afe4509ac46.md)
 - [Signatory Conclave](64a52921-8c92-40bb-a0e5-16414cc96d18.md)
 
+there should really be a division that's like "The Exploration of Outer Address Space" between Smuggler's Cove and the next two
+
+- [Okay, But Seriously, Base32 Address Space](c525b73d-c310-485e-bd33-1c321a4e0364.md)
+
 ## see also
 
 - The big branches of [Lean Notes](f00c3d23-8848-4bb4-8d7a-d009f7344374.md)
