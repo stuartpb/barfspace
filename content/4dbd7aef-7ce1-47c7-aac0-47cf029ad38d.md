@@ -1,6 +1,6 @@
 # Stubernetes
 
-This is an experiment in using K3OS on an old Chromebook (now known as "studtop").
+This is an experiment in using Kubernetes distros (first K3OS, now Kubic) on an old Chromebook (now known as "studtop").
 
 ## See Also
 
@@ -12,13 +12,26 @@ This is an experiment in using K3OS on an old Chromebook (now known as "studtop"
 ## Subprojects / namespaces
 
 - [household-workspaces](98583255-8ee5-4d4d-aade-92dbdde01f63.md)
-  - [the Notestack Household Workspace](67826054-ed26-41e6-80c9-5d677e6a8cba.md)
+
 - Unusual Studio (.net, potentially/planned)
 - Orgs and accounts:
   - [Pluskube Org](5a693b09-a5ea-4305-a375-2aaff05f1048.md)
     - [A Few Ideas for Initial Pluskube Projects](7febb0b3-9449-4b79-94e8-35c7f90e489e.md)
   - [Wayside Org](3d49b071-e0f1-4c21-99f0-c8be7b2361dc.md)
   - [ST Public Universal Friend](1b61dbdc-5013-4ca8-825e-6d49db1eca61.md)
+- Planned expansions:
+  - [Notestack Namespace](40517705-1f53-4629-8fe3-cc6733bcf3b0.md)
+
+## Helmbags
+
+These represent plans for the state of the cluster.
+
+For a more up-to-date snapshot of the cluster, see [the `stubernetes` repos on GitHub](https://github.com/search?q=user%3Astuartpb+stubernetes).
+
+- [Helmbag Suites](a6b94843-8569-4a45-a25d-ae69a2d9fc22.md)
+  - [Sweet Suites](24f2321c-bb1a-4f89-a820-5d74409ae1bb.md)
+- [Auth layers](3742c69e-5707-449a-a23c-ae56f2931114.md)
+- [other miscellaneous application plans](2f104233-0b1b-46c0-a60a-ff2ceadff47b.md)
 
 ## Hot Notes
 
@@ -27,18 +40,13 @@ This is an experiment in using K3OS on an old Chromebook (now known as "studtop"
 
 ## Design and Plans
 
-- [State of the Cluster](a4389025-9425-4fe1-ab3b-8d086bce6a13.md)
-  - This is an artifact from the first iteration, but the second is expected to mostly resemble it anyway
 - [Rebuilding Plans](9e684107-b6e6-4ef5-9541-41db74ccf19c.md)
-- [Auth layers](3742c69e-5707-449a-a23c-ae56f2931114.md)
-
-future:
-
-- [Raspberry Pi for System Components](c25a1b6a-875b-4fde-96c0-98464511170b.md)
-  - [Pi (Zero) Cluster Master idea exploration](0350472e-ecb7-4e9f-a50b-48595cd95204.md)
-- [More Concrete Cluster Storage Hardware Planning](72c757ac-be67-4aec-8fe6-42892e0e88d3.md)
-- [A More-Clear-on-Ambition Software/Disk Structure Plan](eca090fd-7edb-4d56-9a5b-6f1836b1412c.md)
-- [Optimizing for Flash Media](e64f550b-a14e-4ca8-a68a-0b88a07051e1.md)
+- future system expansion concepts:
+  - [Raspberry Pi for System Components](c25a1b6a-875b-4fde-96c0-98464511170b.md)
+    - [Pi (Zero) Cluster Master idea exploration](0350472e-ecb7-4e9f-a50b-48595cd95204.md)
+  - [A More-Clear-on-Ambition Software/Disk Structure Plan](eca090fd-7edb-4d56-9a5b-6f1836b1412c.md)
+    - [More Concrete Cluster Storage Hardware Planning](72c757ac-be67-4aec-8fe6-42892e0e88d3.md)
+  - [Optimizing for Flash Media](e64f550b-a14e-4ca8-a68a-0b88a07051e1.md)
 
 ## Hardware plans
 
@@ -61,3 +69,6 @@ future:
   - [The Return of Prometheus](535fc2bc-7b0d-4b98-a7a3-f3562334ef97.md)
   - [Trying to get OpenEBS Working](4d85dd50-a1f9-414b-bbfb-fdc9605e888d.md)
 - [rabbit path for reinstalling kubic 2020-06-17](58ebafed-21df-46da-9c7a-ff91f51f06f8.md)
+  - aborted in favor of Helm-based preconfiguration
+- [June 21, 2020 In Review](f47d1085-edfa-4235-918b-ddabe244fd25.md)
+- [Stubernetes System Chart Initial Development Log](d481eba0-4317-4f18-b73f-1b054da8da68.md)

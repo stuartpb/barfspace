@@ -19,7 +19,10 @@ here is the path I plan on following:
     - maybe this way we can even span over to a lerger drive via transactional-update at some point, in theory!
       - though I guess you can kind of do that anyway via plain old imaging and expansion?
         - but that's haaard
-    - anyway, the perf impacts aren't meaningful, the compatibilty faults are not my responsibility, and it's one more thing to differentiate / potentially not cause this problem again
+    - anyway
+      - the perf impacts aren't meaningful
+      - the compatibilty faults are not my responsibility
+      - and it's one more thing to differentiate / potentially not cause this problem again
   - not setting the new hostname "studhood" unless it still wants to call it "studtop"
     - if so, fuck it, adding studhood to hostname
     - "hood" like "lid" because it's something you should only need to open in an emergency
@@ -41,51 +44,13 @@ here is the path I plan on following:
 
 Thinking about this a little more...
 
-Using Kubeapps for the core system components has been a mistake. Not only is it bloated and inefficient (with a default update schedule that will bring a system to its knees), but it doesn't match the way I've effectively wanted to manage my configuration anyway.
+Using Kubeapps for the core system components has been a mistake. Not only is it bloated and inefficient (with a default update schedule that will bring a system to its knees), but it doesn't match the way I've effectively wanted to manage my configuration anyway ' Ive been copy-pasting config files in and out of theKubeapps interface and to a Git repository.
 
 Looking at [Helm's charts documentation](https://helm.sh/docs/topics/charts/) now, I understand subcharts a little better, and I think it's time I started specifying my setup in a compatible way, as a chart of subcharts - or, better, as a collection of Argo applications versioned in Git.
 
 I'm trying to figure out the cleanest way to have the system manage itself
 
-I think I have my way forward now:
-
-- I'm going to make "stubernetes-setup" into a "stubernetes-system" repo containing a Helm chart
-  - with subcharts for the core components of the system,
-    - weave net
-    - OpenEBS
-    - Kubernetes Dashboard
-    - household-system / household-dns
-    - Flux CD, set up to sync / update this chart itself
-    - Prometheus Operator
-      - potentially Loki and/or logging-operator soon after
-    - Argo CD, to bootstrap futher "layers"
-    - Dex
-      - (part of the Argo CD chart, at least at first)
-      - for securing Argo, Grafana/Prometheus, and Dashboard
-    - Soon:
-      - Pomerium
-    - at some point, probably:
-      - cert-manager
-      - houaehold-ingress Traefik
-  - and templates for the few new resources
-    - by which I mean
-      - the household-dns services, if we can have those separate from the NodePort one
-      - the OpenEBS storage definitions
-      - does Flux need a HelmRelease added?
-    - these will be structured to read from values as appropriate
-      - ie. the openebs values can come from some "less abstract" values source that will be overlayed over this from my local machine
-      - maybe we do it as "work-pool-disks" or something straightforward like that,
-        - so the "classes of disk" are still defined as part of the chart, and only the installation-specific parameters are kept outside it
-          - iow we want as little strcture to be hidden behind the shadow curtain as possible
-  - It'll include a script for setting up new (Kubic) installations in a way that they're ready to join the cluster
-    - maybe tied in with an Ignition script, ie. as will be needed to set up the Pi
-    - Remember: you only have to do the cluster setup once
-    - what it does:
-      - imports all my SSH keys from GitHub
-      - installs open-iscsi, e2fsprogs
-      - do we have a hostname? it figures host resolution out if that's gonna be a thing
-
-ok, so I'm gonna tackle that June 18
+I think I have my way forward now: [Chartifying the Stubernetes System Core](c860e1b8-824f-49f2-bb73-0b589da993f7.md)
 
 ## related thoughts
 
