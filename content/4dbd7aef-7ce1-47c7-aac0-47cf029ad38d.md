@@ -68,7 +68,15 @@ For a more up-to-date snapshot of the cluster, see [the `stubernetes` repos on G
   - [Actually installing OpenEBS](4cbb0df2-0ef7-4678-a394-a1e547069804.md)
   - [The Return of Prometheus](535fc2bc-7b0d-4b98-a7a3-f3562334ef97.md)
   - [Trying to get OpenEBS Working](4d85dd50-a1f9-414b-bbfb-fdc9605e888d.md)
-- [rabbit path for reinstalling kubic 2020-06-17](58ebafed-21df-46da-9c7a-ff91f51f06f8.md)
-  - aborted in favor of Helm-based preconfiguration
-- [June 21, 2020 In Review](f47d1085-edfa-4235-918b-ddabe244fd25.md)
-- [Stubernetes System Chart Initial Development Log](d481eba0-4317-4f18-b73f-1b054da8da68.md)
+- The legacy of trying to bring it back:
+  - [rabbit path for reinstalling kubic 2020-06-17](58ebafed-21df-46da-9c7a-ff91f51f06f8.md)
+    - aborted in favor of Helm-based preconfiguration
+  - [June 21, 2020 In Review](f47d1085-edfa-4235-918b-ddabe244fd25.md)
+  - [Stubernetes System Chart Initial Development Log](d481eba0-4317-4f18-b73f-1b054da8da68.md)
+  - [A Few More Thoughts Before Starting the Rollout](bec6a91c-70ff-4e05-ad7f-727e5cfc8189.md)
+  - [Stushiba stuff 2020-06-25](0be90453-0c7d-4933-ba5d-2cde2c280c1a.md)
+  - [From the Top with Studtop, 2020-06-26](6424e19b-9fe0-4439-9058-b53b8fabddab.md)
+  - [Finishing stubernetes-core](fb2a6c6b-1c10-495d-a6b6-c07424dcf2fa.md)
+  - [Taking the Helm Operator for a Spin](04fe421b-e2d6-4a20-8b92-f23f04758d78.md)
+  - [Remaking Studtop Again](107bcbcb-42dc-44f0-9f64-4b5a98ba6af9.md)
+- [Gearing Up for a Real Cluster](57c1ba36-272f-41e8-b12e-fa2e164718d7.md)
