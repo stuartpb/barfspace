@@ -36,7 +36,6 @@ For a more up-to-date snapshot of the cluster, see [the `stubernetes` repos on G
 ## Hot Notes
 
 - [Quick Access Commands/Links](8b628486-97a4-4439-a7ab-8cde0c7b6b59.md)
-- [Household Internal IP Address Numbering Plan](13a3f35d-bc38-4427-85e7-30ce8352e1d7.md)
 
 ## Design and Plans
 
