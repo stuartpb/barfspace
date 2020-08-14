@@ -46,36 +46,16 @@ For a more up-to-date snapshot of the cluster, see [the `stubernetes` repos on G
   - [A More-Clear-on-Ambition Software/Disk Structure Plan](eca090fd-7edb-4d56-9a5b-6f1836b1412c.md)
     - [More Concrete Cluster Storage Hardware Planning](72c757ac-be67-4aec-8fe6-42892e0e88d3.md)
   - [Optimizing for Flash Media](e64f550b-a14e-4ca8-a68a-0b88a07051e1.md)
+- [Investigating the DHCP thing](4a0b15f4-2e2e-4d9c-b153-788e10c11520.md)
 
 ## Hardware plans
 
-- Raspberry Pi (needs a name?)
-- [Studlow](5ad7f8ad-00fa-4df1-b99c-aba20b89f222.md)
+- [Considering the Propriety of a Raspberry Pi 3 master node](4ff0a833-1b27-4af7-9510-ef6549a55efc.md)
+- [Sourcing More Chromebooks for x64-Power](5ad7f8ad-00fa-4df1-b99c-aba20b89f222.md)
 
 ## logs
 
-- Previous iteration:
-  - [Studtop Mark I](9af1ee19-ac0a-46e1-8a9c-d6815a455f4f.md)
-  - TODO: describe the First Failure to install K3OS on the flash drive
-  - [Rethink + Kubic from-disk installation plan](7de423da-53fb-499d-bd6c-59fb5d004163.md)
-    - [Abortive Kubic Install to PNY Elite-X](3e9a1fd5-79c0-45ee-bf29-bffb9ed6a004.md)
-- [Installing Kubic on Studtop](55aeedd3-c454-4e9f-bd5c-09c654d62965.md)
-- [Following the Rebuilding Plan](2d2421e6-4ef4-4a37-aaa8-bd6fa0f81a0d.md)
-- 2020-06-14: [Rebuilding continues](623a3875-457f-4655-b193-5d169fb12823.md)
-  - [Preparing for OpenEBS](4fcce049-7817-4182-9330-4a2ee9803b1e.md)
-  - [Retracing household-dns](4094f9be-62eb-430c-9292-1728894718fe.md)
-  - [Actually installing OpenEBS](4cbb0df2-0ef7-4678-a394-a1e547069804.md)
-  - [The Return of Prometheus](535fc2bc-7b0d-4b98-a7a3-f3562334ef97.md)
-  - [Trying to get OpenEBS Working](4d85dd50-a1f9-414b-bbfb-fdc9605e888d.md)
-- The legacy of trying to bring it back:
-  - [rabbit path for reinstalling kubic 2020-06-17](58ebafed-21df-46da-9c7a-ff91f51f06f8.md)
-    - aborted in favor of Helm-based preconfiguration
-  - [June 21, 2020 In Review](f47d1085-edfa-4235-918b-ddabe244fd25.md)
-  - [Stubernetes System Chart Initial Development Log](d481eba0-4317-4f18-b73f-1b054da8da68.md)
-  - [A Few More Thoughts Before Starting the Rollout](bec6a91c-70ff-4e05-ad7f-727e5cfc8189.md)
-  - [Stushiba stuff 2020-06-25](0be90453-0c7d-4933-ba5d-2cde2c280c1a.md)
-  - [From the Top with Studtop, 2020-06-26](6424e19b-9fe0-4439-9058-b53b8fabddab.md)
-  - [Finishing stubernetes-core](fb2a6c6b-1c10-495d-a6b6-c07424dcf2fa.md)
-  - [Taking the Helm Operator for a Spin](04fe421b-e2d6-4a20-8b92-f23f04758d78.md)
-  - [Remaking Studtop Again](107bcbcb-42dc-44f0-9f64-4b5a98ba6af9.md)
-- [Gearing Up for a Real Cluster](57c1ba36-272f-41e8-b12e-fa2e164718d7.md)
+- [All the Old Stubernetes Iterations](0664580b-c3d9-4e37-b3eb-7765514e2f9c.md)
+  - everything before August 2020 goes here
+- [Crystal Gem Cluster Iteration (Kluster Plan)](ef51a70c-487f-4706-8061-93156dc8415f.md)
+- [2020-08-10 Kluster Rollout](3b3be951-82c4-4e31-845f-5d1579a4302b.md)
