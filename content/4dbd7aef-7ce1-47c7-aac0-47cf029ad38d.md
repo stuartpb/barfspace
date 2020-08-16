@@ -1,6 +1,6 @@
 # Stubernetes
 
-This is an experiment in using Kubernetes distros (first K3OS, now Kubic) on an old Chromebook (now known as "studtop").
+This is an experiment in using Kubernetes distros (first K3OS, now Kubic) on a heterogenous cluster of Raspberry Pis and a reflashed Chromebook (the Chromebook being the initial testing ground).
 
 ## See Also
 
@@ -37,21 +37,20 @@ For a more up-to-date snapshot of the cluster, see [the `stubernetes` repos on G
 
 - [Quick Access Commands/Links](8b628486-97a4-4439-a7ab-8cde0c7b6b59.md)
 
-## Design and Plans
+## Network Design and Plans
 
-- [Rebuilding Plans](9e684107-b6e6-4ef5-9541-41db74ccf19c.md)
 - future system expansion concepts:
-  - [Raspberry Pi for System Components](c25a1b6a-875b-4fde-96c0-98464511170b.md)
-    - [Pi (Zero) Cluster Master idea exploration](0350472e-ecb7-4e9f-a50b-48595cd95204.md)
   - [A More-Clear-on-Ambition Software/Disk Structure Plan](eca090fd-7edb-4d56-9a5b-6f1836b1412c.md)
     - [More Concrete Cluster Storage Hardware Planning](72c757ac-be67-4aec-8fe6-42892e0e88d3.md)
-  - [Optimizing for Flash Media](e64f550b-a14e-4ca8-a68a-0b88a07051e1.md)
-- [Investigating the DHCP thing](4a0b15f4-2e2e-4d9c-b153-788e10c11520.md)
+- [On DHCP, DNS, and Hostnames](4a0b15f4-2e2e-4d9c-b153-788e10c11520.md)
 
 ## Hardware plans
 
-- [Considering the Propriety of a Raspberry Pi 3 master node](4ff0a833-1b27-4af7-9510-ef6549a55efc.md)
+- [Raspberry Pi for System Components](c25a1b6a-875b-4fde-96c0-98464511170b.md)
+  - [Pi (Zero) Cluster Master idea exploration](0350472e-ecb7-4e9f-a50b-48595cd95204.md)
+  - [Considering the Propriety of a Raspberry Pi 3 master node](4ff0a833-1b27-4af7-9510-ef6549a55efc.md)
 - [Sourcing More Chromebooks for x64-Power](5ad7f8ad-00fa-4df1-b99c-aba20b89f222.md)
+- [Optimizing for Flash Media](e64f550b-a14e-4ca8-a68a-0b88a07051e1.md)
 
 ## logs
 
@@ -59,3 +58,4 @@ For a more up-to-date snapshot of the cluster, see [the `stubernetes` repos on G
   - everything before August 2020 goes here
 - [Crystal Gem Cluster Iteration (Kluster Plan)](ef51a70c-487f-4706-8061-93156dc8415f.md)
 - [2020-08-10 Kluster Rollout](3b3be951-82c4-4e31-845f-5d1579a4302b.md)
+- [2020-08-15 Setup in Earnest](c58191c5-75c2-4692-ad22-7c7b96f83ad9.md)
