@@ -59,3 +59,9 @@ For a more up-to-date snapshot of the cluster, see [the `stubernetes` repos on G
 - [Crystal Gem Cluster Iteration (Kluster Plan)](ef51a70c-487f-4706-8061-93156dc8415f.md)
 - [2020-08-10 Kluster Rollout](3b3be951-82c4-4e31-845f-5d1579a4302b.md)
 - [2020-08-15 Setup in Earnest](c58191c5-75c2-4692-ad22-7c7b96f83ad9.md)
+- [Gotta Try Again](6bcc8f6b-6ed4-4d4e-8ec4-8c8c5c148839.md)
+- [Almost trying again](8c15db3f-3aaa-4bcd-b58c-72c46c8e6fbb.md)
+
+## side log: hardware sourcing / build logs
+
+- [2020-08-28 recap and new sturl case](638a7e58-16d2-4d56-9128-503a080ef802.md)

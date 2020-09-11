@@ -38,6 +38,7 @@ I dual-boot (usually in Linux these days):
 - [stuixel](2c42d49f-88a0-4af5-9b2b-f209eec08a92.md) (Google Pixel 2 XL running Magisk-rooted Android)
 - [stuwich](0331a991-50e7-4d6a-a3a5-2bed544f5f1c.md), my Nintendo Switch and the game saves thereon
 - [stuchip](a5d309b7-acfa-417d-a633-d2b754fa675d.md), my Pocket C.H.I.P.
+- [studeku](96f7aab6-9d33-486f-99e3-f0927fb73a41.md), a Raspberry Pi 0W attached to a WaveShare GamePi 15
 
 ## Portable media installations
 
