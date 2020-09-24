@@ -42,15 +42,13 @@ I dual-boot (usually in Linux these days):
 
 ## Portable media installations
 
-- [Sturling 2020](93f6b670-133e-4e8c-b583-ce27243a48c9.md) (Arch Linux on a USB 256GB MicroSD card )
+- [Sturling 2020](93f6b670-133e-4e8c-b583-ce27243a48c9.md) (Arch Linux on a USB 256GB MicroSD card)
+- [Stunicorn GLIM](48f27942-9c45-48c0-9d69-ff5957c17fda.md) (multi-booting USB)
 - [stuquart](eaac9d0b-dc62-4b54-9983-feb76c54da5b.md) (Windows 10 on a 500GB hard drive in a USB3 enclosure)
 
 ## My household Kubernetes cluster
 
-[Stubernetes](4dbd7aef-7ce1-47c7-aac0-47cf029ad38d.md), consisting of:
-
-- studtop, the Server node (K3OS on an x64 Toshiba Chromebook 2)
-- address.exposed, the exit node
+[Stubernetes](4dbd7aef-7ce1-47c7-aac0-47cf029ad38d.md), consisting of several Raspberry Pi 4s and a few more PCs
 
 ## Stuworks
 
