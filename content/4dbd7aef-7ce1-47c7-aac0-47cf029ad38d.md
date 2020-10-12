@@ -6,6 +6,7 @@ This is an experiment in using Kubernetes distros (first K3OS, now Kubic) on a h
 
 - [Kubernetes note hub](f7ab56ca-06db-4c96-808f-4d0b0ee47819.md)
   - [General k8s Projects](950653f7-1ddf-4a58-a8bd-e3d2df544bb4.md)
+    - [Ska Linux](b0f11124-d0dd-4734-b1a7-10391ba62e52.md)
   - [Idle k8s Research](fe193832-2ffa-4cd4-a458-ec2c73cbe9b3.md)
   - [Other cluster under CNCF grant on Packet](a7a77b82-cf6d-4837-93f3-4371018f7f7a.md)
 
@@ -25,6 +26,7 @@ This is an experiment in using Kubernetes distros (first K3OS, now Kubic) on a h
 - Future directions
   - [Notestack Namespace](40517705-1f53-4629-8fe3-cc6733bcf3b0.md)
   - [Node Feature Discovery (Coral and other esoteric peripherals)](70ca79c7-0b7d-426a-952c-5b83cec73575.md)
+  - [Advanced network layout hardening/isolation](43f85113-a7a6-4898-8dd2-5d288e48f683.md)
 
 ## Great reference
 
@@ -55,17 +57,19 @@ For a more up-to-date snapshot of the cluster, see [the `stubernetes` repos on G
 
 ## Hardware plans
 
-- [Raspberry Pi for System Components](c25a1b6a-875b-4fde-96c0-98464511170b.md)
-- [Sourcing More Chromebooks for x64-Power](5ad7f8ad-00fa-4df1-b99c-aba20b89f222.md)
-- [Optimizing for Flash Media](e64f550b-a14e-4ca8-a68a-0b88a07051e1.md)
+- [Old hardware notes](6114020f-190a-42b2-8d47-5190cf7d3075.md)
 - [cluster hardware wishlist](c4c5145f-a236-4ffd-9b78-d49a68b6d245.md)
   - stuff I don't really plan to get, but it's interesting to keep an eye on what's out there
+- [Argon 1 Daemon (in progress)](46d82502-f607-4b6c-b164-f7f1a37c6a92.md)
+- [wpc-gomez reboot issue (under observation)](5d06e624-77d3-4970-b902-c1b37fa7e2de.md)
 
 ## logs
 
 - [All the Old Stubernetes Iterations](0664580b-c3d9-4e37-b3eb-7765514e2f9c.md)
-  - everything before September 2020 goes here
-- [SUMAF Iteration](ed3e162a-cdcc-4454-bfa6-0258d9999f7d.md)
+  - everything before October 2020 goes here
+- [Rebuilding, But Because I Want To This Time](f198d599-f807-4635-a107-b6040e3d951e.md)
+- [Okay, Let's Rebuild Again](b4ebe591-4cf3-440f-a1f3-0648af75947e.md)
+  - [New Spinup Checklist](099467be-6bf7-42a4-a826-0aae3800aa75.md)
 
 ## Recaps
 
