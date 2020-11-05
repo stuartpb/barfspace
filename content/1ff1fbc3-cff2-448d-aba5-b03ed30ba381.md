@@ -13,10 +13,9 @@ These are an odd series of notes with a similar "vibe" that I can't quite define
 - [Smuggler's Cove](58d3072a-0670-4bc3-9db2-fca214ca725e.md)
 - [Anarchy Headquarters](c47c2afa-59e0-4cde-a5b5-6afe4509ac46.md)
 - [Signatory Conclave](64a52921-8c92-40bb-a0e5-16414cc96d18.md)
-
-there should really be a division that's like "The Exploration of Outer Address Space" between Smuggler's Cove and the next two
-
-- [Okay, But Seriously, Base32 Address Space](c525b73d-c310-485e-bd33-1c321a4e0364.md)
+- [The Synaesthesium](2601a216-2144-42f6-86cf-d66e5c574e3a.md)
+- [Identifier Island](6e57a531-58e8-42cb-bf39-cd7182b86921.md)
+- [Formats Hub](731c6745-4cc8-43fc-805e-faf14c74134b.md)
 
 ## see also
 
