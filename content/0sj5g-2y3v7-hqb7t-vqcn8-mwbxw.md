@@ -1,0 +1,79 @@
+# All the Old Stubernetes Iterations
+
+- [Studtop Mark I](kbryw-6dc19-r18n7-6pg5d-4aqwf)
+  - first single-node attempt
+  - k3os, installed directly to a Chromebook's 16GB onboard storage
+  - Longhorn attempted for use as attached storage
+  - Fell apart due to running out of image space, naturally (regardless of Longhorn support)
+  - Had an abortive attempt to reinstall to a 64GB USB stick that was called "Studtop Mk II" for a bit
+    - as I would come to realize, this USB stick is far too slow for OS operation
+- [Initial post-k3os plan](fqj27-pjkze-cxbtv-2szde-g0gc3)
+  - see also [Rebuilding Plans](ksm42-1xpwv-rn9ag-a1vdt-cswcw)
+  - when I first had the idea to [flash the installation media to onboard storage](jwcha-677x6-mn9jr-k9pyv-3k7wv)
+    - though this iteration was intended to be multiple-install-media-oriented
+  - this is where I settled on Kubic-on-bare-metal
+  - covers some of the other ideas that were considered
+    - like a hypervisor using images from attached storage
+- [Abortive Kubic Install to PNY Elite-X](7td1z-nbsr1-febya-dzzef-dd804)
+  - I believe it's around here that I realized a MicroSD card would be cheap and fast enough
+- [First Earnest Kubic Runthrough](apqev-my4ak-mzbtq-09rsa-dcac5)
+  - this is what most "Studtop Mark II" references would be describing
+    - it ends up being rebuilt and redesigned quickly enough that that label, itself, starts to blur
+    - by the time the plan settles on a system design that wouldn't fail in setup, the name "studtop" was no longer part of it
+      - this machine would go on to be renamed "stumethyst" in [the initial Kluster iteration](xx8te-328fx-r680r-ck2np-wggbz)
+        - ultimately, this was renamed "stunster" and removed from service shortly after
+  - [Following the Rebuilding Plan](5mj23-sjeyj-jqana-5xdyg-fg6gd)
+  - 2020-06-14: [Rebuilding continues](c8x3g-xa5fx-jnb34-tx2tf-v2a13)
+    - [Preparing for OpenEBS](9z6e0-jbr2w-c296c-2a5vm-r0esy)
+    - [Retracing household-dns](82afk-fk2xc-rc954-gq524-me68y)
+    - [Actually installing OpenEBS](9jxgv-wgeyx-mra75-51wn3-gd604)
+    - [The Return of Prometheus](adfw5-f3v1p-wraf8-zkarh-k9vwq)
+    - [Trying to get OpenEBS Working](9p2xt-m51z4-abbqy-zxs5g-5x24d)
+      - this is where everything comes to a screeching halt (the cluster got Cronenberged)
+
+- somewhere around here is the last time these notes were relevant:
+  - [Quick Access Commands/Links](hdh89-1mqmh-0safa-wcvr6-7ptts)
+    - describes how to open tunnels / port-forwards to access various internal dashboards
+    - these days, the only services referenced here that are still in-cluster have Ingress routes
+  - [Old cluster storage planning notes](xaqb7-ad60v-w3bq4-0yb8t-j6nm1)
+
+- The legacy of trying to bring it back:
+  - [a walkthrough trying to retrace my steps](b3ntz-v91vx-pt9ry-qzj7t-hy1rr) (2020-06-17)
+    - After looking at this, I realize it would be a lot easier to just recreate the chart installations as local documents
+      - Like, why run Kubernetes if you're just gonna do all this stuff like the system can't be revived
+    - aborted in favor of Helm-based preconfiguration
+  - [June 21, 2020 In Review](yhyh1-1fdz8-gn932-yxnfh-49z95)
+  - [Stubernetes System Chart Initial Development Log](tj0yq-8232z-rrbef-rv0n6-thpm8)
+  - [A Few More Thoughts Before Starting the Rollout](qv3aj-73gzz-g5atz-vjfse-fs0c9)
+  - [Stushiba stuff 2020-06-25](1fmg8-mrcfp-9kbmq-9cvrp-2g30t)
+  - [From the Top with Studtop, 2020-06-26](cgje3-6wzw1-2s90p-5n7e7-tqqdb)
+  - [Finishing stubernetes-core](zcn6r-trw22-cxadd-p0egj-dswrt)
+  - [Taking the Helm Operator for a Spin](0kz44-6z2tt-h08q4-qj7w2-7b3cr)
+  - [Remaking Studtop Again](21xwq-jt2vh-7g9ys-2bbac-bmtrs)
+- [The First Multi-Node Stubernetes Attempt](az0vm-dh75w-g8b2b-qt5rb-4e66q)
+  - [Preliminary Notes](gmx7p-kwtwa-mr9hk-0ksq0-r3kwv)
+  - [2020-07-02 studtop initial setup](2fpzv-ssxwf-6e83n-vccmf-4mpd0)
+  - [setting up the Raspberry Pi 4](h0xas-0hxsj-rbamd-7qedf-y6jre)
+  - [what success looks like](pbkkf-jbs3t-cf9qt-nbc92-1gv0q)
+  - [Initial Stubernetes setup](qcptj-gdnfj-g2a7q-29gbv-66s09)
+  - [The next wave](b13jy-1nwxy-gj9z2-1jmw5-qawr2)
+  - somewhere around here I rolled out [Stuplink](84772-8as0e-0v96g-ah4v3-jsbk0)
+    - this really marks the start of the Modern Era
+  - [A Screeching Halt](394x5-5xy60-7q9ry-9d4n4-cx1re)
+- [Crystal Gem Cluster Iteration (Kluster Plan)](xx8te-328fx-r680r-ck2np-wggbz)
+  - [2020-08-10 Kluster Rollout](7cxyj-mc2rk-jh88q-tx2nw-t8c2b)
+  - [2020-08-15 Setup in Earnest](rp0s3-hbnr9-mjat8-kwfeb-fgers)
+  - [Gotta Try Again](df68y-tvetk-ae8xh-4chhe-1920s)
+  - [resetting worker nodes](hgaxp-fstnb-0dbb3-3jrhp-8wvyv)
+- [sturl reflash](090c0-295jf-jda2k-59svn-vcznb)
+  - [Stubernetes System, Now on Appropriate Hardware](2ryrx-50dkp-4nb6h-w4kpw-j6076)
+  - [Resetting kube-prometheus-stack](epffv-6ph18-t58fg-c611h-4mwwb)
+  - [Getting the Ceph storage up and running](j79ha-6y5fn-88ads-07rpk-99bwd)
+- [One Last One More Time](w3e54-ntc37-cz94n-0axx4-w4kzs)
+- Current iteration as of 2020-09-21: [SUMAF Iteration](xmz1c-apdsh-4mbz9-g2b3c-sk7wx)
+  - [2020-09-22 Overall Recap and Summary / State of the Cluster](d6rv8-h6b4a-p19j5-24cpr-fzk8s)
+- [SUMAF Iteration](xmz1c-apdsh-4mbz9-g2b3c-sk7wx)
+  - This, with the systemd-resolved rollout that uses search domains for the cluster names, marks the point where the cluster really stopped being a temporary hack
+  - [2020-09-23 Night Plan](94s5r-b8gm5-wg84s-js73n-c9ypp)
+    - introduction of the (new-ish) stumethyst and SSDs
+  - [2020-10-04 Stubernetes spinup checklist](g8gn4-qg9nj-4995p-ck3eh-wz1d8)
