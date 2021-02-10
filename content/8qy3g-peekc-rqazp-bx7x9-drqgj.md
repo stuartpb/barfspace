@@ -1,7 +1,5 @@
 # The Fresh Book of Bell Air
 
-As Foretold, Told, and Retold by Wicked High Priestess Spectra DeRange and Later Only Distantly Related to Great Magnum Shemdick Stuart P. Bentley, Once or Twice Blessed
-
 ~~**[From the management. On breathing the Bell Air for 2020.](99d2x-72rbn-4j9rf-ajss3-pf5cm)**~~ DISREGARD THAT, THE COCKS HAVE BEEN SACKED
 
 There's a certain model to my being now, a clarity of continuity, that I feel like I'm ready to do a bit on the regular about it:

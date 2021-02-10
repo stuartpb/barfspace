@@ -19,6 +19,6 @@ fi
 
 ## here's the meat
 
-filename=$(bagtent-conjure)
-echo "# $LINK_NAME" >"$CONTENT_DIR$filename"
-echo "[$LINK_NAME]($filename)"
+quid=$(quid.lua -r)
+echo "# $LINK_NAME" >"$CONTENT_DIR$quid.md"
+echo "[$LINK_NAME]($quid)"

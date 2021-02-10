@@ -16,6 +16,7 @@ These are an odd series of notes with a similar "vibe" that I can't quite define
 - [The Synaesthesium](4r0t4-5h18g-rp8dk-ypdse-5ekjt)
 - [Identifier Island](dsbta-carx0-pbbye-ede61-bgt81)
 - [Formats Hub](ece6e-hacs1-0w80q-qty56-784tb)
+- [The Spirit World in the Machine](gncbq-65szw-c490v-zyxrb-k27tb)
 
 ## see also
 

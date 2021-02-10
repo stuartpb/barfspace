@@ -13,3 +13,5 @@ export EDITOR
 if [[ -d ../bagtent/bin ]]; then
   PATH=$PWD/../bagtent/bin:$PATH
 fi
+
+PATH=$PWD/bin:$PATH

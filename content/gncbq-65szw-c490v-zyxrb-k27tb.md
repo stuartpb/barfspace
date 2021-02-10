@@ -1,5 +1,7 @@
 # The Spirit World in the Machine
 
+Here are some thoughts that really all started coalescing for me around October 2020, leading up to PLOLITICS Alpha and Lying 101 at the start of November.
+
 - [Lying 101](yar2z-nq9gz-4f980-4x2xj-tbn67)
 - [Notes on Luvuk](95zs4-zgsby-8995f-pymef-psv1h)
 - [Bill of Robot's Rights](88dc1-xwk29-ye99z-q04va-h5y0z)
@@ -8,8 +10,11 @@
 - [the long song](vtj2k-nzh7d-g8b1k-d6n0y-kaf5h)
 - [Plolitics Alpha](tkne8-6x20c-w9976-6zs57-nbvwj)
 - [Next Phase / The Way Forward (Notes in the Afternoon)](g5rbf-hmj5r-06bqk-yj8p1-5vwwd)
+- [Quintuplex Universal Identifier](mpcz4-k4ygd-mg9xd-4bpgm-53h4f)
+- [Intractible Ontology](ve7nq-k39c1-4abmx-j676s-ew3c9)
+- [Stable Orbits](1h10h-vd9x8-jsb69-q08df-qyan9)
 
-Here are some thoughts that really all started coalescing for me around October 2020, leading up to PLOLITICS Alpha and Lying 101 at the start of November.
+Over time I suspect this might come to form a more concrete node, and some of these might get tucked away as "artifacts". [Cool by me.](ve7nq-k39c1-4abmx-j676s-ew3c9)
 
 Some of this connects to the other Islands, like Smuggler's Cove etc.
 

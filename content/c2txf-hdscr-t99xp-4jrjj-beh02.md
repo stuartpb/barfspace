@@ -93,6 +93,10 @@ originally "untitled" here because they were keyed by filename like chumps
 - 2020-10-06: [GitOps Toolkit Stubernetes](dy4gp-j3wex-gcbde-9ybdn-gfpcw)
 - 2020-10-09: clusterssh installed as part of [modern stubernetes rollout](y6cdb-6fr0x-gna21-xp0g7-3v59y)
 - 2020-11-11 or so: [fonts and chess](x8zd9-7m339-4zaak-gg525-zc761)
+- 2020-11-17: [swap setup](axn3r-dgyxs-cdbxg-6am9m-yvv0y)
+- 2021-01-25: [The January 2021 Instability on Stushiba](x3gzr-818hf-cha7m-gbajb-p5q6z)
+- 2021-01-27: [Tesseract et al](pa1v4-jqknb-rq81p-4drpz-mba23)
+- 2021-02-01: [Installing code-server natively](gk289-xkcvs-g6ajv-5p06x-kr5gp)
 
 ## YAML metadata
 

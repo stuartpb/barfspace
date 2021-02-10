@@ -7,6 +7,8 @@ I'm just organizing it the way that'd be most useful with the way I'm jumping ar
 - My workhorse rigs:
   - [stushiba](c2txf-hdscr-t99xp-4jrjj-beh02) (Arch Linux)
   - [stuzzy](gsmaa-6w3x5-mw9af-frvsb-j074b) (Arch Linux on an x64 Chromebook)
+- My Hitchhiker's Guide to the Galaxy:
+  - [stumarkable](6fptv-1psdn-s8bpq-0gnkt-k2xge) (a reMarkable 2)
 - [The Test Track 4 Network](ecpx8-2j3hp-a89ke-z7brt-xfgra)
   - [Stubernetes](9pyqn-vvww5-y7ang-27sw1-9nmwd)
   - [Stuplink](84772-8as0e-0v96g-ah4v3-jsbk0)

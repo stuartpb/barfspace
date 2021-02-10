@@ -54,6 +54,7 @@ This is an experiment in using Kubernetes distros (first K3OS, now Kubic) on a h
   - stuff I don't really plan to get, but it's interesting to keep an eye on what's out there
 - [Argon 1 Daemon and the Stubernetes Hats Subsystem](y2mp2-95f9z-gk8yj-gm2r6-727w5)
 - [wpc-gomez reboot issue (under observation)](bm3ec-93qte-cgbj0-p1pdz-tfrry)
+- [recovering wpi-amethyst](hmth7-ryhd2-cs8t4-gad87-ae3gf)
 
 ## logs
 

@@ -6,6 +6,8 @@ What I'd like is a thing I could plug into a device and it'd start a *terminal s
 
 I feel like I was looking for this at one point, as a thing for Abe / Quadration / building my own hardware cluster? I feel like I remember "IP-KVM" as a term
 
+Anyway here are some notes on [doing this on a Pi or something you could order on Amazon](prxbq-st1d6-g98t1-vt8b8-7h40a)
+
 ## Wikipedia?
 
 - https://en.wikipedia.org/wiki/Out-of-band_management#Implementation

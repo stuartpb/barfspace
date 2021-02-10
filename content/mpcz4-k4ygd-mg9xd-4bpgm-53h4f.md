@@ -38,4 +38,11 @@ So, here's what I'm thinking:
 - `010` is the mask for a Random (as well as I think `011` for compatibiltiy with "variant 2" UUIDs?)
 - `100` is the "separator" between the timestamp and (most of?) the randomness.
 
-When generating Moments, to guarantee there will be enough space, you can specify howe many bits should be zeroed initially: exceeding this limit introduces the theoretical and minute possibility of crashing into another instance, but eh
+When generating Moments, to guarantee there will be enough space, you can specify how many bits should be zeroed initially: exceeding this limit introduces the theoretical and minute possibility of crashing into another instance, but eh
+
+## Don't think of it as a non-octodivisbible bit count
+
+Think of it as 2 unsigned 64-bit integers you're able to do a little shifting on without losing data.
+
+- [A Fuller QUID Spec](qvsp8-8pbfm-038eq-mt42p-342wb)
+- [QUID Script TODO](13yc0-c6mys-jtazv-7m6qd-nbg4v)

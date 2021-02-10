@@ -93,6 +93,15 @@ local function quidify(filename, options)
   end
 end
 
+local function gethammertime()
+  return tonumber(assert(assert(io.popen'date +%s%3N'):read'a'))
+end
+
+local function quidtimestamp()
+  local stamp = base32(gethammertime() << 10)
+  return stamp:sub(1, 5) .. '-' .. stamp:sub(6, 10)
+end
+
 local modes = {
   random = function ()
     print(randomquid())
@@ -102,6 +111,9 @@ local modes = {
   end,
   ify = function (arg, opt)
     quidify(arg[1], opt)
+  end,
+  timestamp = function (arg, opt)
+    print(quidtimestamp())
   end
 }
 
@@ -112,6 +124,8 @@ if arg then
     modes.ify({arg[2]})
   elseif arg[1] == '--ify' and arg[2] == '--rm' and #arg == 3 then
     modes.ify({arg[3]},{rm=true})
+  elseif arg[1] == '--timestamp' then
+    modes.timestamp()
   else
     modes.fromuuid4(arg)
   end
